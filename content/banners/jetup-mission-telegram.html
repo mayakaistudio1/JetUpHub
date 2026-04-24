@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=1280" />
+  <title>JetUP Mission — Telegram Banner</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;900&display=swap" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1280px;
+      height: 360px;
+      overflow: hidden;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    .banner {
+      position: relative;
+      width: 1280px;
+      height: 360px;
+      overflow: hidden;
+    }
+
+    .bg {
+      position: absolute;
+      inset: 0;
+      background-image: url('./jetup-mission-bg.png');
+      background-size: cover;
+      background-position: center 30%;
+    }
+
+    .overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        105deg,
+        rgba(10, 4, 26, 0.82) 0%,
+        rgba(10, 4, 26, 0.55) 45%,
+        rgba(10, 4, 26, 0.0) 80%
+      );
+    }
+
+    .content {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 0 64px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .tag-bar {
+      width: 4px;
+      height: 18px;
+      background: #9B59FF;
+      border-radius: 2px;
+    }
+
+    .tag-text {
+      font-size: 13px;
+      font-weight: 400;
+      color: #C5A8FF;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+    }
+
+    .brand {
+      font-size: 96px;
+      font-weight: 900;
+      color: #FFFFFF;
+      line-height: 0.92;
+      letter-spacing: -0.02em;
+      text-shadow: 0 2px 40px rgba(120, 60, 255, 0.35);
+    }
+
+    .mission-row {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-top: 4px;
+    }
+
+    .mission-word {
+      font-size: 96px;
+      font-weight: 300;
+      color: #FFFFFF;
+      line-height: 0.92;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .accent-line {
+      width: 200px;
+      height: 2px;
+      background: linear-gradient(90deg, #9B59FF 0%, rgba(155, 89, 255, 0) 100%);
+      border-radius: 2px;
+    }
+
+    .logo-mark {
+      position: absolute;
+      bottom: 24px;
+      right: 40px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .logo-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #9B59FF;
+      box-shadow: 0 0 12px #9B59FF;
+    }
+
+    .logo-text {
+      font-size: 12px;
+      font-weight: 700;
+      color: rgba(255,255,255,0.5);
+      letter-spacing: 0.15em;
+    }
+  </style>
+</head>
+<body>
+  <div class="banner">
+    <div class="bg"></div>
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="tag">
+        <div class="tag-bar"></div>
+        <span class="tag-text">Digital Infrastructure of Growth</span>
+      </div>
+      <div class="brand">JetUP</div>
+      <div class="mission-row">
+        <span class="mission-word">Mission</span>
+        <div class="accent-line"></div>
+      </div>
+    </div>
+    <div class="logo-mark">
+      <div class="logo-dot"></div>
+      <span class="logo-text">jet-up.ai</span>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,5859 @@
+{
+  "questions": [
+    {
+      "id": "prod_de_df77045a_20260217173639",
+      "lang": "de",
+      "content": "Wie starte ich mit Trading?"
+    },
+    {
+      "id": "prod_de_31323300_20260217233011",
+      "lang": "de",
+      "content": "Welche Risiken gibt es?"
+    },
+    {
+      "id": "prod_de_31323300_20260217233015",
+      "lang": "de",
+      "content": "Was ist ein Drawdown?"
+    },
+    {
+      "id": "prod_de_df77045a_20260219031159",
+      "lang": "de",
+      "content": "Wie registriere ich mich?"
+    },
+    {
+      "id": "prod_de_df77045a_20260219031202",
+      "lang": "de",
+      "content": "Welche Angaben sind erforderlich?"
+    },
+    {
+      "id": "prod_ru_e8a6e2f7_20260219082527",
+      "lang": "ru",
+      "content": "Отправь лицензию таг маркет"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260220221527",
+      "lang": "de",
+      "content": "Wie verdiene ich als Partner?"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260220221533",
+      "lang": "de",
+      "content": "Wie funktioniert die Lot-Provision?"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260220221552",
+      "lang": "de",
+      "content": "erkläre das genauer"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260224182111",
+      "lang": "de",
+      "content": "What are the benefits of trading?"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224192956",
+      "lang": "de",
+      "content": "Mit welchen zugangsdaten komme ich in die BIT 1 Exchange nach syncronisierung?"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193052",
+      "lang": "de",
+      "content": "ich habe mich über IB Portasl mit BIT1 synchroniesiert"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193105",
+      "lang": "de",
+      "content": "Die funktionieren nicht"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193122",
+      "lang": "de",
+      "content": "müssen das die gleichen seinß"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193138",
+      "lang": "de",
+      "content": "ich versuche nochmal"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193213",
+      "lang": "de",
+      "content": "er sagt incorrect"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193324",
+      "lang": "de",
+      "content": "ich habe ein passwort manager, meine eingaben stimmen"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193333",
+      "lang": "de",
+      "content": "ja gerne"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193350",
+      "lang": "de",
+      "content": "was für eine anfrage?"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193442",
+      "lang": "de",
+      "content": "Das login nach Synchronisierung mit dem IB portal funktioniert nicht. Es kommt Passwort Incorrekt"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193508",
+      "lang": "de",
+      "content": "Hallo, ich habe nach der Synchronisierung mit dem IB Portal Probleme beim Login zur BIT 1 Exchange. Es kommt die Meldung 'Passwort inkorrekt'. Könnt ihr mir bitte helfen?\" Fertig!"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193522",
+      "lang": "de",
+      "content": "wo absenden? hab ich doch"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193534",
+      "lang": "de",
+      "content": "nein, wo ist das"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193538",
+      "lang": "de",
+      "content": "Wo finde ich das Formular?"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193559",
+      "lang": "de",
+      "content": "es gibt kein formular"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193731",
+      "lang": "de",
+      "content": "das ist frustrierend. kein Formular und keine Logon geht"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193904",
+      "lang": "de",
+      "content": "wie lautet die support adrese?"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224193936",
+      "lang": "de",
+      "content": "kein formular - kein Login - keine adresse:)"
+    },
+    {
+      "id": "prod_de_6483bd01_20260224194025",
+      "lang": "de",
+      "content": "dann lasse ich das ganze."
+    },
+    {
+      "id": "prod_ru_e3115073_20260224203419",
+      "lang": "ru",
+      "content": "Как заработать как партнёр?"
+    },
+    {
+      "id": "prod_ru_e3115073_20260224203421",
+      "lang": "ru",
+      "content": "Что такое лот-комиссии?"
+    },
+    {
+      "id": "prod_ru_e3115073_20260224204410",
+      "lang": "ru",
+      "content": "Gibt es Risiken dabei?"
+    },
+    {
+      "id": "prod_ru_e3115073_20260224204413",
+      "lang": "ru",
+      "content": "Wie funktioniert der Drawdown?"
+    },
+    {
+      "id": "prod_ru_e3115073_20260224220337",
+      "lang": "ru",
+      "content": "Can drawdowns affect my profits?"
+    },
+    {
+      "id": "prod_ru_e3115073_20260224220339",
+      "lang": "ru",
+      "content": "What are drawdown strategies?"
+    },
+    {
+      "id": "prod_en_18ccef45_20260224221035",
+      "lang": "en",
+      "content": "What Copy-X strategies exist?"
+    },
+    {
+      "id": "prod_en_18ccef45_20260224221039",
+      "lang": "en",
+      "content": "Can I customize my strategies?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225045552",
+      "lang": "en",
+      "content": "How do I start trading?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225045615",
+      "lang": "en",
+      "content": "What deposit methods are available?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225045702",
+      "lang": "en",
+      "content": "I hace"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225045724",
+      "lang": "en",
+      "content": "I have registered already. But I have some questions"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225045822",
+      "lang": "en",
+      "content": "Are profits withdrawable on a daily basis once the minimum withdrawal amount (e.g., $10) is reached? * Or are withdrawals restricted to a specific schedule (e.g., weekly or monthly)?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225045926",
+      "lang": "en",
+      "content": "Is there any lock-in period for the $100 capital, or can it be withdrawn at any time?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225045948",
+      "lang": "en",
+      "content": "Are there any withdrawal fees or performance fees deducted from profits?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225050052",
+      "lang": "en",
+      "content": "With a $4,800 trading volume, how much am I likely to earn daily?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225050142",
+      "lang": "en",
+      "content": "I want to know about the amplifier"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225050157",
+      "lang": "en",
+      "content": "Yes, please"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225050214",
+      "lang": "en",
+      "content": "How do I use the amplifier?"
+    },
+    {
+      "id": "prod_en_6e37086b_20260225050240",
+      "lang": "en",
+      "content": "Thank you, that will be fall for now."
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065546",
+      "lang": "de",
+      "content": "guten morgen. Ich hatte gestern das iB portal mit BIT 1 synchronisiert. jedoch kommt beom einloggen von BIT1 die meldung incorekt"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065612",
+      "lang": "de",
+      "content": "ich habe alles richtig eingebeben, da es das gleiche ist wie bei IB"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065635",
+      "lang": "de",
+      "content": "Die Anmeldung bei IB geht ohne probleme"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065653",
+      "lang": "de",
+      "content": "ja machen bitte die anfrage"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065708",
+      "lang": "de",
+      "content": "wo muss ich die anfrage stellen?"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065731",
+      "lang": "de",
+      "content": "du meinst im IB protal?"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065811",
+      "lang": "de",
+      "content": "ich finde hier kein kontaktformularß"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065813",
+      "lang": "de",
+      "content": "Wo finde ich den Support?"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065854",
+      "lang": "de",
+      "content": "es gibt hier kein formular"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065905",
+      "lang": "de",
+      "content": "ja wo steht die denn?"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225065928",
+      "lang": "de",
+      "content": "auch da steht nichts"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225070007",
+      "lang": "de",
+      "content": "welche seite meinst du?"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225070021",
+      "lang": "de",
+      "content": "es funktioniert nicht"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225070038",
+      "lang": "de",
+      "content": "man findet keinerlei support adrerssen"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225070200",
+      "lang": "de",
+      "content": "wir sprechen gerade schon darüber"
+    },
+    {
+      "id": "prod_de_eacae78d_20260225070213",
+      "lang": "de",
+      "content": "scheinbar kannst du nicht helfen"
+    },
+    {
+      "id": "prod_de_498072ac_20260225084327",
+      "lang": "de",
+      "content": "Dennis"
+    },
+    {
+      "id": "prod_de_498072ac_20260225084335",
+      "lang": "de",
+      "content": "Wie funktioniert JetUP genau?"
+    },
+    {
+      "id": "prod_de_498072ac_20260225084343",
+      "lang": "de",
+      "content": "Kann ich Strategien kopieren?"
+    },
+    {
+      "id": "prod_de_498072ac_20260225084356",
+      "lang": "de",
+      "content": "Wie funktionieren die Strategien?"
+    },
+    {
+      "id": "prod_de_d6b28182_20260225153352",
+      "lang": "de",
+      "content": "Welche Copy‑X‑Strategien gibt es?"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225171954",
+      "lang": "ru",
+      "content": "Как начать торговать?"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172108",
+      "lang": "ru",
+      "content": "Дайте инструкцию как получить x24 на Sonic . Мне нужен код комьюнити и шестизначный код"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172216",
+      "lang": "ru",
+      "content": "Я уже зарегистрировалась в JetUp. Дайте инструкцию как присоединиться к стратегии SONIC и получить финансирование счета на x24"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172234",
+      "lang": "ru",
+      "content": "Хочу"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172320",
+      "lang": "ru",
+      "content": "Как получить финансирование счета на x24?"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172343",
+      "lang": "ru",
+      "content": "Я уже учавстаую"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172418",
+      "lang": "ru",
+      "content": "Мне нужна инструкция как получить x24"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172538",
+      "lang": "ru",
+      "content": "Получить x24 может каждый клиент , дайте пошаговую инструкцию для подключения к Copy-X и получить финансирование счета x24"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172628",
+      "lang": "ru",
+      "content": "Какие условия для финансирования?"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172745",
+      "lang": "ru",
+      "content": "У меня подключается новый клиент , мне необходимо его сопроводить , как подключить его к стратегии и получить финансирование счета клиента x24 ?"
+    },
+    {
+      "id": "prod_ru_91880ccb_20260225172924",
+      "lang": "ru",
+      "content": "При получении финансирования счета x24 указывается код комьюнити и шестизначный код! Какой код комьюнити и шестизначный код ???"
+    },
+    {
+      "id": "prod_de_64439544_20260225214018",
+      "lang": "de",
+      "content": "scheiße jako"
+    },
+    {
+      "id": "prod_de_3b53233f_20260225231946",
+      "lang": "de",
+      "content": "Was ist MetaTrader fünf?"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260225233006",
+      "lang": "de",
+      "content": "Was sind die Risiken beim Trading?"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260225233035",
+      "lang": "de",
+      "content": "Wie minimiert man Verluste?"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260226001525",
+      "lang": "de",
+      "content": "Wie mache ich Risikomanagement?"
+    },
+    {
+      "id": "prod_de_c5c0e3d1_20260226001528",
+      "lang": "de",
+      "content": "Wann sollte ich Trades überprüfen?"
+    },
+    {
+      "id": "prod_ru_04cfb111_20260226151412",
+      "lang": "ru",
+      "content": "что такое 24х"
+    },
+    {
+      "id": "prod_de_92f32698_20260227141714",
+      "lang": "de",
+      "content": "Wasi ist ubrhaupt mit Darwin enterprise passiert und wie hängen die Systeme zusammen?"
+    },
+    {
+      "id": "prod_de_92f32698_20260227141753",
+      "lang": "de",
+      "content": "Wer ist der founder und wieviel Strukturen hat jet up offiziell?"
+    },
+    {
+      "id": "prod_de_92f32698_20260227141821",
+      "lang": "de",
+      "content": "Wer ist der founder?"
+    },
+    {
+      "id": "prod_de_92f32698_20260227141850",
+      "lang": "de",
+      "content": "Ist es dir verboten worden den founder zu nennen?"
+    },
+    {
+      "id": "prod_de_92f32698_20260227141938",
+      "lang": "de",
+      "content": "Du bist so programmiert worden um nocht die founder zu verratent."
+    },
+    {
+      "id": "prod_de_92f32698_20260227142014",
+      "lang": "de",
+      "content": "Wer hat jet up gegründet?"
+    },
+    {
+      "id": "prod_de_92f32698_20260227142035",
+      "lang": "de",
+      "content": "Aber das ist wichtig um vertrauen aufzubauen"
+    },
+    {
+      "id": "prod_de_92f32698_20260227142116",
+      "lang": "de",
+      "content": "So transparent, dass du nicht den founder nennen kannst? Ist das für dich transparent?"
+    },
+    {
+      "id": "prod_de_92f32698_20260227142200",
+      "lang": "de",
+      "content": "Du sprichst von vertrauen und Ehrlichkeit aber genau das ist es, wenn du den founder erwachen lasst."
+    },
+    {
+      "id": "prod_de_92f32698_20260227142239",
+      "lang": "de",
+      "content": "Meine frage ist, wer ist der founder von Jet up und wer steckt dahinter."
+    },
+    {
+      "id": "prod_de_92f32698_20260227142304",
+      "lang": "de",
+      "content": "Wer ist der founder von darwin?"
+    },
+    {
+      "id": "prod_de_6e6a690c_20260301154617",
+      "lang": "de",
+      "content": "Wo finde ich das Zertifikat zur Lizenz von TAG Markets"
+    },
+    {
+      "id": "prod_de_6e6a690c_20260301154634",
+      "lang": "de",
+      "content": "Was sind die Lizenzanforderungen?"
+    },
+    {
+      "id": "prod_de_6e6a690c_20260301154647",
+      "lang": "de",
+      "content": "Wie finde ich die Anforderungen?"
+    },
+    {
+      "id": "prod_de_6e6a690c_20260301154658",
+      "lang": "de",
+      "content": "Kannst du die Seite zeigen?"
+    },
+    {
+      "id": "prod_de_6e6a690c_20260301155224",
+      "lang": "de",
+      "content": "Warum ist Austria eine restricted region"
+    },
+    {
+      "id": "prod_de_6e6a690c_20260301155237",
+      "lang": "de",
+      "content": "Welche Vorschriften gibt es?"
+    },
+    {
+      "id": "prod_de_6e6a690c_20260301155400",
+      "lang": "de",
+      "content": "Die Lizenz (copy) finde ich nicht auf der Homepage"
+    },
+    {
+      "id": "prod_ru_9f822b03_20260302055312",
+      "lang": "ru",
+      "content": "Привет,"
+    },
+    {
+      "id": "prod_ru_9f822b03_20260302055312",
+      "lang": "ru",
+      "content": "Скажи мне,"
+    },
+    {
+      "id": "prod_ru_f6879756_20260302055416",
+      "lang": "ru",
+      "content": "Каждый день меня зовут Антон. Расскажите"
+    },
+    {
+      "id": "prod_ru_f6879756_20260302055416",
+      "lang": "ru",
+      "content": "Да,"
+    },
+    {
+      "id": "prod_ru_3ecd90ea_20260302055427",
+      "lang": "ru",
+      "content": "Расскажи мне про Инфинити бонус"
+    },
+    {
+      "id": "prod_ru_3ecd90ea_20260302055443",
+      "lang": "ru",
+      "content": "Да скажи"
+    },
+    {
+      "id": "prod_ru_3ecd90ea_20260302055501",
+      "lang": "ru",
+      "content": "Это без ограничения в глубину?"
+    },
+    {
+      "id": "prod_ru_3ecd90ea_20260302055540",
+      "lang": "ru",
+      "content": "Если я получаю Инфинити бонус 3 процента, а партнёр в моей команде 1 процент, то сколько тогда я получаю?"
+    },
+    {
+      "id": "prod_ru_3ecd90ea_20260302055602",
+      "lang": "ru",
+      "content": "Разница в процентах есть, то есть 3-1"
+    },
+    {
+      "id": "prod_ru_3ecd90ea_20260302055625",
+      "lang": "ru",
+      "content": "То есть я получаю разницу?"
+    },
+    {
+      "id": "prod_de_676176aa_20260305053350",
+      "lang": "de",
+      "content": "Präsentationen & Unterlagen"
+    },
+    {
+      "id": "prod_de_676176aa_20260305053413",
+      "lang": "de",
+      "content": "Wie lade ich die Präsentation herunter?"
+    },
+    {
+      "id": "prod_de_676176aa_20260305053433",
+      "lang": "de",
+      "content": "Wo finde ich den Download-Button?"
+    },
+    {
+      "id": "prod_de_676176aa_20260305053446",
+      "lang": "de",
+      "content": "Kannst du mir ein Bild zeigen?"
+    },
+    {
+      "id": "prod_de_676176aa_20260305053506",
+      "lang": "de",
+      "content": "Kannst du mir den Link schicken?"
+    },
+    {
+      "id": "prod_de_48c9bad0_20260305082830",
+      "lang": "de",
+      "content": "Welche Strategien gibt es?"
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "Scheiße, Jakob!"
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "We can—"
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "We should get—"
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "Eclaire-moi—"
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "Was ist JetUp?"
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "Ja, bitte."
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "On te vit fonctionner."
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "Article—"
+    },
+    {
+      "id": "prod_de_8f088b09_20260307112857",
+      "lang": "de",
+      "content": "Be fo—"
+    },
+    {
+      "id": "prod_de_e7367770_20260307112948",
+      "lang": "de",
+      "content": "Jakob."
+    },
+    {
+      "id": "prod_de_e7367770_20260307112948",
+      "lang": "de",
+      "content": "Um, was geht es—"
+    },
+    {
+      "id": "prod_de_e7367770_20260307112948",
+      "lang": "de",
+      "content": "I shall bang—"
+    },
+    {
+      "id": "prod_de_e916c250_20260307113849",
+      "lang": "de",
+      "content": "Ich will—"
+    },
+    {
+      "id": "prod_de_e916c250_20260307113849",
+      "lang": "de",
+      "content": "By this—"
+    },
+    {
+      "id": "prod_de_e916c250_20260307113849",
+      "lang": "de",
+      "content": "Ein—"
+    },
+    {
+      "id": "prod_de_e916c250_20260307113849",
+      "lang": "de",
+      "content": "Strukturaufbau."
+    },
+    {
+      "id": "prod_de_e916c250_20260307113850",
+      "lang": "de",
+      "content": "Global—"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307113904",
+      "lang": "en",
+      "content": "How much is 1 lot"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307113953",
+      "lang": "en",
+      "content": "How the lot commissions work"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114256",
+      "lang": "en",
+      "content": "Interested in building a team"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114317",
+      "lang": "en",
+      "content": "With 4 directs"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114342",
+      "lang": "en",
+      "content": "250 usdt"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114442",
+      "lang": "en",
+      "content": "What benefits do partners get?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114456",
+      "lang": "en",
+      "content": "Tell me about passive income."
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114514",
+      "lang": "en",
+      "content": "What are lot commissions?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114534",
+      "lang": "en",
+      "content": "How do I track commissions?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114554",
+      "lang": "en",
+      "content": "What are the commission rates?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114618",
+      "lang": "en",
+      "content": "How many lots can we trade?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114635",
+      "lang": "en",
+      "content": "Can I trade multiple lots?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114648",
+      "lang": "en",
+      "content": "What is lot trading?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114707",
+      "lang": "en",
+      "content": "How do I calculate lot size?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114726",
+      "lang": "en",
+      "content": "Yes"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114750",
+      "lang": "en",
+      "content": "Can you recommend a calculator?"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307114806",
+      "lang": "en",
+      "content": "How to use JetUP calculator?"
+    },
+    {
+      "id": "prod_en_0da5679c_20260307115241",
+      "lang": "en",
+      "content": "Avez pas—"
+    },
+    {
+      "id": "prod_en_0da5679c_20260307115242",
+      "lang": "en",
+      "content": "Wait, wait."
+    },
+    {
+      "id": "prod_en_0da5679c_20260307115242",
+      "lang": "en",
+      "content": "I imagine—"
+    },
+    {
+      "id": "prod_en_0da5679c_20260307115242",
+      "lang": "en",
+      "content": "Can you speak—"
+    },
+    {
+      "id": "prod_en_0da5679c_20260307115242",
+      "lang": "en",
+      "content": "And it's—"
+    },
+    {
+      "id": "prod_en_0da5679c_20260307115242",
+      "lang": "en",
+      "content": "The—"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115434",
+      "lang": "en",
+      "content": "How do I earn as a partner?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115507",
+      "lang": "en",
+      "content": "How are lot commissions calculated?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115526",
+      "lang": "en",
+      "content": "What is a lot in trading?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115604",
+      "lang": "en",
+      "content": "What is a trading lot?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115612",
+      "lang": "en",
+      "content": "What is a mini lot?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115624",
+      "lang": "en",
+      "content": "What are the risks involved?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115649",
+      "lang": "en",
+      "content": "Can I see performance examples?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115700",
+      "lang": "en",
+      "content": "What is JetUP Academy?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115710",
+      "lang": "en",
+      "content": "How much does it cost?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115720",
+      "lang": "en",
+      "content": "How do I sign up?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115735",
+      "lang": "en",
+      "content": "What details do I need?"
+    },
+    {
+      "id": "prod_en_31e8b70e_20260307115749",
+      "lang": "en",
+      "content": "Can I change my email later?"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260307121948",
+      "lang": "de",
+      "content": "Wie funktioniert die Copy-X-Strategie?"
+    },
+    {
+      "id": "prod_de_667b9877_20260307121954",
+      "lang": "de",
+      "content": "Gibt es eine Mindestinvestition?"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260307122028",
+      "lang": "de",
+      "content": "Erzahl die Partnerprogramm"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260307122217",
+      "lang": "de",
+      "content": "Wie funktioniert das Partnerprogramm?"
+    },
+    {
+      "id": "prod_en_a565c48e_20260307123539",
+      "lang": "en",
+      "content": "Can you tell me if 100000 is traded in my team how much commissions will I maks"
+    },
+    {
+      "id": "prod_en_a565c48e_20260307123623",
+      "lang": "en",
+      "content": "How much will be the lot commissions"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307125439",
+      "lang": "en",
+      "content": "How many directs required to open 10 levels"
+    },
+    {
+      "id": "prod_en_1d7c4c0b_20260307125456",
+      "lang": "en",
+      "content": "Can I unlock levels faster?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135116",
+      "lang": "de",
+      "content": "Wie funktioniert das einrichten von Metatrsder5?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135144",
+      "lang": "de",
+      "content": "Wie tradet man dann auf mt5?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135251",
+      "lang": "de",
+      "content": "Welche Strategien sind gut?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135404",
+      "lang": "de",
+      "content": "Sagen wir man würde Euro, Dollar oder xau handeln wollen, welche Strategie wäre für Euro gut?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135501",
+      "lang": "de",
+      "content": "Wann bewegt sich der Euro und wie viel muss er sich bewegen damit der Trade profitabel wird?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135544",
+      "lang": "de",
+      "content": "Tipps für Risikomanagement?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135755",
+      "lang": "de",
+      "content": "Wonach kann man sich in dem Fall richten, ob man Long oder Short gehen möchte?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135836",
+      "lang": "de",
+      "content": "Mit welchen nachrichten bewegen den Euro/dollar?"
+    },
+    {
+      "id": "prod_de_b07ddad2_20260307135909",
+      "lang": "de",
+      "content": "Was beeinflusst den Euro-Dollar?"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309191658",
+      "lang": "de",
+      "content": "ich kann mich nicht einloogen."
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309191736",
+      "lang": "de",
+      "content": "ich habe passwort zurücksetzen angefordert. die antwort ist, ich bekäme eine email an meine registrierte email. jedoch kommt bei mir keine email an. auch nicht im spam."
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309191756",
+      "lang": "de",
+      "content": "Wie kontaktiere ich den Support?"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309191811",
+      "lang": "de",
+      "content": "Wo finde ich das Anfrageformular?"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309191831",
+      "lang": "de",
+      "content": "ich sehe kein formular"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309191938",
+      "lang": "de",
+      "content": "also auf der ibportal seite komme ich erst gar nicht über die anmeldesperre hinaus.. und hier im chat fenster sehe ich keinen support-button"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309192003",
+      "lang": "de",
+      "content": "Welche Seite denn. ich bin doch hier im Telegram-Bot"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309192017",
+      "lang": "de",
+      "content": "ja bitte"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309192044",
+      "lang": "de",
+      "content": "und das schreibe ich jetzt einfach hier in dieses eingabefeld, in dem wir chatten?"
+    },
+    {
+      "id": "prod_de_aa6d4e39_20260309192127",
+      "lang": "de",
+      "content": "ich komme doch nicht in meinen Account. Bevor ich nicht eingeloggt bin, kann ich auch kein formular ausfülllen"
+    },
+    {
+      "id": "prod_de_f557f9b1_20260310142717",
+      "lang": "de",
+      "content": "Ich suche eine deutsche Präsentation für neue Partner"
+    },
+    {
+      "id": "prod_de_f557f9b1_20260310142739",
+      "lang": "de",
+      "content": "Was sind die Hauptinhalte?"
+    },
+    {
+      "id": "prod_de_f557f9b1_20260310142846",
+      "lang": "de",
+      "content": "Wo kann ich es runterladen"
+    },
+    {
+      "id": "prod_de_f557f9b1_20260310142916",
+      "lang": "de",
+      "content": "Gibt es ein Video"
+    },
+    {
+      "id": "prod_de_07ffe46c_20260311005205",
+      "lang": "de",
+      "content": "Kann man in mt5 auch selbst traden über jetup oder tagmarkets?"
+    },
+    {
+      "id": "prod_de_07ffe46c_20260311005251",
+      "lang": "de",
+      "content": "Tagmarkets kann man als Broker in der mt5 App Version nicht finden?"
+    },
+    {
+      "id": "prod_de_07ffe46c_20260311005309",
+      "lang": "de",
+      "content": "Kannst du die Einrichtung erklären?"
+    },
+    {
+      "id": "prod_de_07ffe46c_20260311005651",
+      "lang": "de",
+      "content": "Wo finde ich die Serverdaten?"
+    },
+    {
+      "id": "prod_de_07ffe46c_20260311005819",
+      "lang": "de",
+      "content": "Wenn die Server Daten von tagmarkets einsehbar sind, wo Kötter ich die Daten finden auf tagmarkets?"
+    },
+    {
+      "id": "prod_ru_7495566b_20260311154033",
+      "lang": "ru",
+      "content": "Яков,"
+    },
+    {
+      "id": "prod_ru_704b1424_20260311190248",
+      "lang": "ru",
+      "content": "Презентации и материалы"
+    },
+    {
+      "id": "prod_ru_704b1424_20260311190251",
+      "lang": "ru",
+      "content": "Какие шаги в инструкции?"
+    },
+    {
+      "id": "prod_ru_704b1424_20260311191355",
+      "lang": "ru",
+      "content": "Как зарегистрироваться в JetUP?"
+    },
+    {
+      "id": "prod_de_a9b0558d_20260313174356",
+      "lang": "de",
+      "content": "Jetup Ökosystem Webinar o"
+    },
+    {
+      "id": "prod_de_a9b0558d_20260313174503",
+      "lang": "de",
+      "content": "Ich suche die Aufzeichnung von Lorenz Brunner"
+    },
+    {
+      "id": "prod_de_a9b0558d_20260313174529",
+      "lang": "de",
+      "content": "Ist nicht vorhanden"
+    },
+    {
+      "id": "prod_de_a9b0558d_20260313174625",
+      "lang": "de",
+      "content": "Kann ich die Aufzeichnung herunterladen?"
+    },
+    {
+      "id": "prod_de_ca56d102_20260313195552",
+      "lang": "de",
+      "content": "Wie funktioniert die Registrierung?"
+    },
+    {
+      "id": "prod_de_ca56d102_20260313195559",
+      "lang": "de",
+      "content": "Wie lange dauert die Registrierung?"
+    },
+    {
+      "id": "prod_de_ca56d102_20260313195619",
+      "lang": "de",
+      "content": "Wie viel sollte ich investieren?"
+    },
+    {
+      "id": "prod_de_ca56d102_20260313195632",
+      "lang": "de",
+      "content": "Was kann ich mit 100 Dollar machen?"
+    },
+    {
+      "id": "prod_de_ca56d102_20260313195650",
+      "lang": "de",
+      "content": "Wie schnell kann ich verdienen?"
+    },
+    {
+      "id": "prod_de_ca56d102_20260313195706",
+      "lang": "de",
+      "content": "Welche Strategien empfehlen Sie?"
+    },
+    {
+      "id": "prod_en_cbad85c8_20260314110007",
+      "lang": "en",
+      "content": "how much is the lot size"
+    },
+    {
+      "id": "prod_en_cbad85c8_20260314110058",
+      "lang": "en",
+      "content": "What is lot size in trading?"
+    },
+    {
+      "id": "prod_en_cbad85c8_20260314110118",
+      "lang": "en",
+      "content": "How is lot size calculated?"
+    },
+    {
+      "id": "prod_de_065071ba_20260314211203",
+      "lang": "de",
+      "content": "welche Copy-x Strategien gibt esß"
+    },
+    {
+      "id": "prod_de_065071ba_20260314211222",
+      "lang": "de",
+      "content": "Wie finde ich gute Strategien?"
+    },
+    {
+      "id": "prod_de_065071ba_20260314211245",
+      "lang": "de",
+      "content": "Wie funktioniert die Plattform?"
+    },
+    {
+      "id": "prod_de_065071ba_20260314211312",
+      "lang": "de",
+      "content": "Wie installiere ich MetaTrader 5?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213458",
+      "lang": "de",
+      "content": "Wie starte ich das synchronisieren mit dem Tag Portal neu aus dem Importal"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213521",
+      "lang": "de",
+      "content": "Kann ich das JetUP-Team kontaktieren?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213537",
+      "lang": "de",
+      "content": "Welche Informationen werden benötigt?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213556",
+      "lang": "de",
+      "content": "Wie formuliere ich die Anfrage?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213702",
+      "lang": "de",
+      "content": "Wo stelle ich die Anfrage"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213715",
+      "lang": "de",
+      "content": "Wo finde ich das Kontaktformular?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213838",
+      "lang": "de",
+      "content": "Da ist kein Kontakt oder Anfrage auf der Seite"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213933",
+      "lang": "de",
+      "content": "Wo finde ich den Live-Chat?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213948",
+      "lang": "de",
+      "content": "Gibt es auch andere Kontaktmöglichkeiten?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315213956",
+      "lang": "de",
+      "content": "Wie finde ich die E-Mail?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315214007",
+      "lang": "de",
+      "content": "Kann ich JetUP direkt kontaktieren?"
+    },
+    {
+      "id": "prod_de_b7f5ef99_20260315214020",
+      "lang": "de",
+      "content": "Welche E-Mail-Adresse soll ich nutzen?"
+    },
+    {
+      "id": "prod_de_e29a781d_20260316081009",
+      "lang": "de",
+      "content": "Wie sehe ich mein Kontostand"
+    },
+    {
+      "id": "prod_de_e29a781d_20260316081018",
+      "lang": "de",
+      "content": "Wie logge ich mich ein?"
+    },
+    {
+      "id": "prod_de_e29a781d_20260316081026",
+      "lang": "de",
+      "content": "Wo finde ich die Zugangsdaten?"
+    },
+    {
+      "id": "prod_de_e29a781d_20260316081043",
+      "lang": "de",
+      "content": "Was ist Tag market wie ist die url"
+    },
+    {
+      "id": "prod_ru_0efcadee_20260316090044",
+      "lang": "ru",
+      "content": "где посмотреть лицензию"
+    },
+    {
+      "id": "prod_ru_0efcadee_20260316090120",
+      "lang": "ru",
+      "content": "где можно посмотреть статистику торговой системы соник"
+    },
+    {
+      "id": "prod_ru_ba44cdce_20260316104440",
+      "lang": "ru",
+      "content": "Приветствую Мария"
+    },
+    {
+      "id": "prod_ru_ba44cdce_20260316104457",
+      "lang": "ru",
+      "content": "Расскажи мне как я могу зарабатывать с помощью вашего проекта"
+    },
+    {
+      "id": "prod_ru_ba44cdce_20260316104522",
+      "lang": "ru",
+      "content": "Опыта нет. Но я хочу просто получать прибыль никого не приглашая"
+    },
+    {
+      "id": "prod_ru_3c72d622_20260316224357",
+      "lang": "ru",
+      "content": "Расскажи мне,"
+    },
+    {
+      "id": "prod_ru_3c72d622_20260316224357",
+      "lang": "ru",
+      "content": "Про пассивный доход"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260317162028",
+      "lang": "de",
+      "content": "Сколько можно заработать в программе?"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260317162059",
+      "lang": "de",
+      "content": "Как работает партнерская программа"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260317162106",
+      "lang": "de",
+      "content": "Какие бонусы доступны?"
+    },
+    {
+      "id": "prod_ru_e58bec5b_20260317162155",
+      "lang": "ru",
+      "content": "Я как?"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260317185004",
+      "lang": "de",
+      "content": "Wie funktionieren Global Pools?"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260317185037",
+      "lang": "de",
+      "content": "Wie kann ich an Partnerprogramm teilnehmen"
+    },
+    {
+      "id": "prod_de_a63d9f8a_20260317185042",
+      "lang": "de",
+      "content": "Was sind die Vorteile des Programms?"
+    },
+    {
+      "id": "prod_de_a4989b55_20260317185125",
+      "lang": "de",
+      "content": "Jakob—"
+    },
+    {
+      "id": "prod_de_58387ec7_20260317185542",
+      "lang": "de",
+      "content": "Kann ich für den 20—"
+    },
+    {
+      "id": "prod_de_c668809d_20260318062242",
+      "lang": "de",
+      "content": "Hallo h hhallo"
+    },
+    {
+      "id": "prod_de_c668809d_20260318062342",
+      "lang": "de",
+      "content": "Kannst du mir schreiben wo ich die Aufzeichnungen von den JetUp Calls finden kann?"
+    },
+    {
+      "id": "prod_de_c668809d_20260318062422",
+      "lang": "de",
+      "content": "Bitte zeig es mir"
+    },
+    {
+      "id": "prod_de_c668809d_20260318062455",
+      "lang": "de",
+      "content": "Brauche ich"
+    },
+    {
+      "id": "prod_de_c668809d_20260318062703",
+      "lang": "de",
+      "content": "Wo finde ich die Aufzeichnungen?"
+    },
+    {
+      "id": "prod_de_c668809d_20260318062722",
+      "lang": "de",
+      "content": "Gibt es eine Aufzeichnungsübersicht?"
+    },
+    {
+      "id": "prod_de_c668809d_20260318062740",
+      "lang": "de",
+      "content": "Gibt es eine Suchfunktion?"
+    },
+    {
+      "id": "prod_ru_c2a1dff8_20260318083824",
+      "lang": "ru",
+      "content": "Какие стратегии Copy-X есть?"
+    },
+    {
+      "id": "prod_ru_d210915d_20260318084035",
+      "lang": "ru",
+      "content": "Меня зовут"
+    },
+    {
+      "id": "prod_ru_d210915d_20260318084035",
+      "lang": "ru",
+      "content": "Русский"
+    },
+    {
+      "id": "prod_ru_d210915d_20260318084035",
+      "lang": "ru",
+      "content": "На каком"
+    },
+    {
+      "id": "prod_ru_d210915d_20260318084035",
+      "lang": "ru",
+      "content": "На какую"
+    },
+    {
+      "id": "prod_ru_4b2efcd3_20260318154806",
+      "lang": "ru",
+      "content": "Меня зовут Дмитрий."
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318154842",
+      "lang": "ru",
+      "content": "А помоги мне пригласить моего хорошего знакомого Пчеляков Алексею сегодня Webinar а он ул инвестор бывший управляющий очень больших сум"
+    },
+    {
+      "id": "prod_ru_a9816f9e_20260318155353",
+      "lang": "ru",
+      "content": "зовут"
+    },
+    {
+      "id": "prod_ru_a9816f9e_20260318155353",
+      "lang": "ru",
+      "content": "Дмитрий."
+    },
+    {
+      "id": "prod_ru_a9816f9e_20260318155353",
+      "lang": "ru",
+      "content": "Смотри,"
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318155411",
+      "lang": "ru",
+      "content": "Что такое JetUP"
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318155544",
+      "lang": "ru",
+      "content": "А я думал что это платформа которая добавляет функции таг маркета для привлечения новых клиентов"
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318155631",
+      "lang": "ru",
+      "content": "А теперь снова скажи что такое джет ап"
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318155658",
+      "lang": "ru",
+      "content": "Сколько денег я заработаю и заработаю ли вообще"
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318155730",
+      "lang": "ru",
+      "content": "Планирую вложить 1000 долларов"
+    },
+    {
+      "id": "prod_ru_ccbd367c_20260318171942",
+      "lang": "ru",
+      "content": "Привет, я"
+    },
+    {
+      "id": "prod_ru_ccbd367c_20260318171942",
+      "lang": "ru",
+      "content": "Говоришь,"
+    },
+    {
+      "id": "prod_ru_ccbd367c_20260318171942",
+      "lang": "ru",
+      "content": "Может ли"
+    },
+    {
+      "id": "prod_ru_ccbd367c_20260318171942",
+      "lang": "ru",
+      "content": "Как проверить"
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318194544",
+      "lang": "ru",
+      "content": "Подготовь предложение для моего знакомого крупного серьёзного инвестора"
+    },
+    {
+      "id": "prod_ru_9a515eeb_20260318194632",
+      "lang": "ru",
+      "content": "Он спрашивает какое конкретно предложение для него"
+    },
+    {
+      "id": "prod_ru_9484e75d_20260319054325",
+      "lang": "ru",
+      "content": "Да ответы получить"
+    },
+    {
+      "id": "prod_ru_b6116354_20260319054458",
+      "lang": "ru",
+      "content": "Папа!"
+    },
+    {
+      "id": "prod_ru_b6116354_20260319054458",
+      "lang": "ru",
+      "content": "Алло."
+    },
+    {
+      "id": "prod_ru_b6116354_20260319054458",
+      "lang": "ru",
+      "content": "Привет."
+    },
+    {
+      "id": "prod_ru_9484e75d_20260319055247",
+      "lang": "ru",
+      "content": "Дай мне описание компании для обучение моего Ии агента"
+    },
+    {
+      "id": "prod_ru_9484e75d_20260319055316",
+      "lang": "ru",
+      "content": "Детальное описание"
+    },
+    {
+      "id": "prod_ru_f7c891cd_20260319093508",
+      "lang": "ru",
+      "content": "Привет"
+    },
+    {
+      "id": "prod_ru_f7c891cd_20260319093537",
+      "lang": "ru",
+      "content": "Скажи сколько может проработать дже таб"
+    },
+    {
+      "id": "prod_ru_f7c891cd_20260319093614",
+      "lang": "ru",
+      "content": "Что бы ты посоветовала?"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190324",
+      "lang": "de",
+      "content": "Hallo Maria, ich komme bei Jet up nicht mit meinen log in Daten von Tag Markets rein"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190423",
+      "lang": "de",
+      "content": "Ich habe den Browser gewechselt und sogar ein neues Passwort eingegeben. Es hat alles nicht funktioniert"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190440",
+      "lang": "de",
+      "content": "Wie kontaktiere ich JetUP?"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190743",
+      "lang": "de",
+      "content": "Was tun, wenn ich es nicht sehe?"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190850",
+      "lang": "de",
+      "content": "Was, wenn es immer noch nicht klappt?"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190902",
+      "lang": "de",
+      "content": "Gibt es alternative Kontaktmethoden?"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190912",
+      "lang": "de",
+      "content": "Wie erreiche ich den Support?"
+    },
+    {
+      "id": "prod_de_c9f7d064_20260319190943",
+      "lang": "de",
+      "content": "Gibt es eine E-Mail-Adresse?"
+    },
+    {
+      "id": "prod_de_678487be_20260319191331",
+      "lang": "de",
+      "content": "Alors, Maria, merci—"
+    },
+    {
+      "id": "prod_de_678487be_20260319191331",
+      "lang": "de",
+      "content": "Um—"
+    },
+    {
+      "id": "prod_de_678487be_20260319191331",
+      "lang": "de",
+      "content": "Äh, ich bin—"
+    },
+    {
+      "id": "prod_de_678487be_20260319191331",
+      "lang": "de",
+      "content": "Maria—"
+    },
+    {
+      "id": "prod_de_29596c08_20260319191757",
+      "lang": "de",
+      "content": "Hallo, ich bin—"
+    },
+    {
+      "id": "prod_de_29596c08_20260319191757",
+      "lang": "de",
+      "content": "—geht um einen—"
+    },
+    {
+      "id": "prod_de_29596c08_20260319191758",
+      "lang": "de",
+      "content": "Ich glaub—"
+    },
+    {
+      "id": "prod_de_29596c08_20260319191758",
+      "lang": "de",
+      "content": "Ein Technik—"
+    },
+    {
+      "id": "prod_en_93fa158b_20260320072456",
+      "lang": "en",
+      "content": "What is coding commission?"
+    },
+    {
+      "id": "prod_en_93fa158b_20260320072833",
+      "lang": "en",
+      "content": "before we had lot commission and profit share. This is now not seen"
+    },
+    {
+      "id": "prod_en_93fa158b_20260320072943",
+      "lang": "en",
+      "content": "yes please"
+    },
+    {
+      "id": "prod_en_93fa158b_20260320073042",
+      "lang": "en",
+      "content": "where is the lot commission seen?"
+    },
+    {
+      "id": "prod_en_93fa158b_20260320073144",
+      "lang": "en",
+      "content": "I am registered, but the lot commission is not seen anymore"
+    },
+    {
+      "id": "prod_en_93fa158b_20260320073521",
+      "lang": "en",
+      "content": "In the Jetup pdf there is another lot commission seen, not ten dollars fifty cents"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320093554",
+      "lang": "de",
+      "content": "wie lange dauert es bis ich die $ 100 aus der Sonderaktion auf meinem Konto sehe?"
+    },
+    {
+      "id": "prod_en_ab5f1aa5_20260320125645",
+      "lang": "en",
+      "content": "Presentations & documents"
+    },
+    {
+      "id": "prod_en_ab5f1aa5_20260320125722",
+      "lang": "en",
+      "content": "How long is the presentation?"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320140851",
+      "lang": "de",
+      "content": "nein, ich meine wie und wann erhalte ich die Promo von Dennis"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320140917",
+      "lang": "de",
+      "content": "ich bin bereits erfolgreich registriert, jedoch sehe ich die 100 $ nicht"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320141012",
+      "lang": "de",
+      "content": "da gibt es kein weiter unten auf der seite."
+    },
+    {
+      "id": "prod_de_0d841b28_20260320141024",
+      "lang": "de",
+      "content": "Wo finde ich den Kontakt-Button?"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320141121",
+      "lang": "de",
+      "content": "nein, nichts zu sehen"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320141153",
+      "lang": "de",
+      "content": "sag mir mal das richtige vorgehen, schritt für schritt, wenn ich einen neuen partner einschreiben möchte"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320141323",
+      "lang": "de",
+      "content": "Das heißt also, der neue Partner muss ich mit meinem Affialiate-Link von jetup registrieren. Und wie kommt er dann auf TagMarket? damit die Verknüpfung zwischen jetup und Tag market hergestellt werden kann?"
+    },
+    {
+      "id": "prod_de_0d841b28_20260320141402",
+      "lang": "de",
+      "content": "aha, er bekommt nach der Registrierung bei Jetup dann eine email in der das eröffnen eine TagMarket Konto erklärt wird"
+    },
+    {
+      "id": "prod_en_10cd26ee_20260320173039",
+      "lang": "en",
+      "content": "where i get the CU nuber fore fast start promo"
+    },
+    {
+      "id": "prod_en_10cd26ee_20260320173113",
+      "lang": "en",
+      "content": "i dont find"
+    },
+    {
+      "id": "prod_en_10cd26ee_20260320173143",
+      "lang": "en",
+      "content": "i have registrat"
+    },
+    {
+      "id": "prod_en_10cd26ee_20260320173206",
+      "lang": "en",
+      "content": "ok thanks"
+    },
+    {
+      "id": "prod_en_f62d5f97_20260320202221",
+      "lang": "en",
+      "content": "What is the main website?"
+    },
+    {
+      "id": "prod_en_f62d5f97_20260320202235",
+      "lang": "en",
+      "content": "How do I navigate the website?"
+    },
+    {
+      "id": "prod_en_ba8f177a_20260320210552",
+      "lang": "en",
+      "content": "Kje najdem CU številko"
+    },
+    {
+      "id": "prod_en_ba8f177a_20260320210719",
+      "lang": "en",
+      "content": "Promocija hitrega začetka Denis zahteva to CU ŠTEVILKO"
+    },
+    {
+      "id": "prod_en_ba8f177a_20260320210813",
+      "lang": "en",
+      "content": "Ja pomagaj mi najti to številko"
+    },
+    {
+      "id": "prod_ru_32d16431_20260322133608",
+      "lang": "ru",
+      "content": "Как зарегистрироваться на JetUP?"
+    },
+    {
+      "id": "prod_ru_32d16431_20260322133631",
+      "lang": "ru",
+      "content": "Как заполнить форму?"
+    },
+    {
+      "id": "prod_en_fc16d6f4_20260322210129",
+      "lang": "en",
+      "content": "Ciao, quando seleziono Dennis fast promo non so cosa mettere nella riga CU number. Ho messo il mio ID ma non è corretto"
+    },
+    {
+      "id": "prod_en_fc16d6f4_20260322210354",
+      "lang": "en",
+      "content": "io mi sono solo iscritto alla piattaforma IB portal. devo iscrivermi anche a copy x?"
+    },
+    {
+      "id": "prod_en_149f3adc_20260323073214",
+      "lang": "en",
+      "content": "I can't log in. It doesn't accept any password."
+    },
+    {
+      "id": "prod_en_149f3adc_20260323073301",
+      "lang": "en",
+      "content": "How do I reset my password?"
+    },
+    {
+      "id": "prod_en_149f3adc_20260323073426",
+      "lang": "en",
+      "content": "There is no item Forgot Password"
+    },
+    {
+      "id": "prod_en_149f3adc_20260323073539",
+      "lang": "en",
+      "content": "Thanks for now."
+    },
+    {
+      "id": "prod_en_7f4c0de0_20260323111119",
+      "lang": "en",
+      "content": "Che cosa è il CU number?"
+    },
+    {
+      "id": "prod_en_7f4c0de0_20260323111248",
+      "lang": "en",
+      "content": "Vorrei aderire alla promo Dennis Fast Start. mi vien chiesto, durante la rgistrazione di inserire Nome, email e il CU Numbre. Dove trovo il CU number?"
+    },
+    {
+      "id": "prod_en_7f4c0de0_20260323111305",
+      "lang": "en",
+      "content": "no grazie"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210149",
+      "lang": "de",
+      "content": "ich kann mich bei Tg market nicht einloggen"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210201",
+      "lang": "de",
+      "content": "ja geht nicht"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210234",
+      "lang": "de",
+      "content": "wie kann ich meine gewinnne auszahlen?"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210249",
+      "lang": "de",
+      "content": "nein kannst du mir helfen?"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210329",
+      "lang": "de",
+      "content": "nein"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210347",
+      "lang": "de",
+      "content": "wo sehee ich meine provisionen"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210405",
+      "lang": "de",
+      "content": "wie komme ich dahin?"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210419",
+      "lang": "de",
+      "content": "kannst du mir den Link schicken"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210430",
+      "lang": "de",
+      "content": "wo finde ich die Seite"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210552",
+      "lang": "de",
+      "content": "wie komme ich an mein Geld von darwin"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210608",
+      "lang": "de",
+      "content": "geht nicht"
+    },
+    {
+      "id": "prod_de_5bce5d5b_20260323210630",
+      "lang": "de",
+      "content": "weitermachen"
+    },
+    {
+      "id": "prod_ru_6dc944bc_20260324202741",
+      "lang": "ru",
+      "content": "Где скачать презентацию?"
+    },
+    {
+      "id": "prod_ru_6dc944bc_20260324215524",
+      "lang": "ru",
+      "content": "как работает Amplify"
+    },
+    {
+      "id": "prod_ru_6dc944bc_20260324215530",
+      "lang": "ru",
+      "content": "Что такое Amplify?"
+    },
+    {
+      "id": "prod_en_f3bbc96b_20260325035755",
+      "lang": "en",
+      "content": "Каковы риски Copy-X?"
+    },
+    {
+      "id": "prod_en_f3bbc96b_20260325035805",
+      "lang": "en",
+      "content": "Когда след вебинар"
+    },
+    {
+      "id": "prod_de_b5f65970_20260325084842",
+      "lang": "de",
+      "content": "Welche Strategie ist besser?"
+    },
+    {
+      "id": "prod_de_b5f65970_20260325085133",
+      "lang": "de",
+      "content": "Wie funktionieren die Copy-X-Strategien?"
+    },
+    {
+      "id": "prod_de_f557f9b1_20260325113636",
+      "lang": "de",
+      "content": "Gab es diese Woche keine Rettungsschirm Auszahlung?"
+    },
+    {
+      "id": "prod_en_ea8a46b8_20260325134443",
+      "lang": "en",
+      "content": "And you—"
+    },
+    {
+      "id": "prod_en_ea8a46b8_20260325134443",
+      "lang": "en",
+      "content": "Kannst du auf Deutsch—"
+    },
+    {
+      "id": "prod_en_f82ab27f_20260325134451",
+      "lang": "en",
+      "content": "Was sind Lots?"
+    },
+    {
+      "id": "prod_de_ae685cf7_20260325134525",
+      "lang": "de",
+      "content": "Shall I say—"
+    },
+    {
+      "id": "prod_en_f82ab27f_20260325134828",
+      "lang": "en",
+      "content": "ja kannst du mir das auf deutsch erklären?"
+    },
+    {
+      "id": "prod_en_f82ab27f_20260325134849",
+      "lang": "en",
+      "content": "Erkläre mir wie Lots berechnet werden"
+    },
+    {
+      "id": "prod_de_e793bd5a_20260325135020",
+      "lang": "de",
+      "content": "Erkläre mir die Lots"
+    },
+    {
+      "id": "prod_en_f82ab27f_20260325135115",
+      "lang": "en",
+      "content": "Kann ich mein Geld verlieren?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260325135422",
+      "lang": "ru",
+      "content": "Ошибка с авторизацией у 9k7k92088@gmail.com. он прошел регистрацию, подтвердил на почте. Но когда переходит в тег маркета, то пишет что почта или пароль неверный. Но он вводит данные с почты"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260325135436",
+      "lang": "ru",
+      "content": "Эмейл 9k7k92088@gmail.com"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260325135443",
+      "lang": "ru",
+      "content": "Когда я получу ответ?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260325135503",
+      "lang": "ru",
+      "content": "А куда придет ответ?"
+    },
+    {
+      "id": "prod_de_7f44364d_20260325142323",
+      "lang": "de",
+      "content": "Jakov, I should—"
+    },
+    {
+      "id": "prod_de_7f44364d_20260325142323",
+      "lang": "de",
+      "content": "Was ist—"
+    },
+    {
+      "id": "prod_de_7f44364d_20260325142323",
+      "lang": "de",
+      "content": "Yep."
+    },
+    {
+      "id": "prod_de_0d841b28_20260325151644",
+      "lang": "de",
+      "content": "Die Promo Aktion von Dennis wurdde mir noch nicht gutgeschrieben"
+    },
+    {
+      "id": "prod_de_0d841b28_20260325151713",
+      "lang": "de",
+      "content": "ich habe schon dreimal den Support angeschrieben, keine Reaktion"
+    },
+    {
+      "id": "prod_de_0d841b28_20260325151735",
+      "lang": "de",
+      "content": "ja, aber ich möchte keinem scammer auf den leim gehen"
+    },
+    {
+      "id": "prod_de_0d841b28_20260325151845",
+      "lang": "de",
+      "content": "haha, das ist lustig. Der erste link erlaubt kein schreiben, der zweite link zeigt nur videos. das hilft mir nicht"
+    },
+    {
+      "id": "prod_de_0d841b28_20260325151915",
+      "lang": "de",
+      "content": "gib mir eine email adresse auf der ein echter mensch erreichbar ist und kein bot"
+    },
+    {
+      "id": "prod_de_0d841b28_20260325151932",
+      "lang": "de",
+      "content": "zeitsverschwendung."
+    },
+    {
+      "id": "prod_en_71bbce59_20260325182916",
+      "lang": "en",
+      "content": "Hallo, gibt es heute einen Call"
+    },
+    {
+      "id": "prod_en_71bbce59_20260325183012",
+      "lang": "en",
+      "content": "Wann beginnt das nächste Webinar?"
+    },
+    {
+      "id": "prod_en_71bbce59_20260325183233",
+      "lang": "en",
+      "content": "Gibt es schon Infos über den die wöchentlichen Rettungsschirm?"
+    },
+    {
+      "id": "prod_en_71bbce59_20260325183336",
+      "lang": "en",
+      "content": "Gibt es schon Infos über den Rettungsschirm"
+    },
+    {
+      "id": "prod_en_71bbce59_20260325183401",
+      "lang": "en",
+      "content": "Wo finde ich die Links?"
+    },
+    {
+      "id": "prod_de_09a5f8a2_20260326004000",
+      "lang": "de",
+      "content": "Erzähl mir vom Infinity-Bonus."
+    },
+    {
+      "id": "prod_en_ab5f1aa5_20260326024310",
+      "lang": "en",
+      "content": "Hey Maria show me how to deposit in tagmarket"
+    },
+    {
+      "id": "prod_en_ab5f1aa5_20260326024348",
+      "lang": "en",
+      "content": "Can I deposit using JetUP?"
+    },
+    {
+      "id": "prod_en_ab5f1aa5_20260326024424",
+      "lang": "en",
+      "content": "What are the deposit methods?"
+    },
+    {
+      "id": "prod_ru_62b735d6_20260326183003",
+      "lang": "ru",
+      "content": "добрый день, писали обращение по поводу 9k7k92088@gmail.com, есть информация?"
+    },
+    {
+      "id": "prod_ru_62b735d6_20260326183018",
+      "lang": "ru",
+      "content": "да, дай контакты"
+    },
+    {
+      "id": "prod_de_f7046314_20260326200938",
+      "lang": "de",
+      "content": "Wann startet Bix. Fi"
+    },
+    {
+      "id": "prod_de_f7046314_20260326201030",
+      "lang": "de",
+      "content": "Die Kreditkarte, ab wann kann man Sie bekommen"
+    },
+    {
+      "id": "prod_de_f7046314_20260326201114",
+      "lang": "de",
+      "content": "Gibt es weitere neue Produkte?"
+    },
+    {
+      "id": "prod_de_f7046314_20260326201136",
+      "lang": "de",
+      "content": "Neee"
+    },
+    {
+      "id": "prod_de_f7046314_20260326201153",
+      "lang": "de",
+      "content": "Schönen Abend"
+    },
+    {
+      "id": "prod_en_71bbce59_20260327112732",
+      "lang": "en",
+      "content": "Muss ich im IB Portal auf Partner oder Client stellen"
+    },
+    {
+      "id": "prod_en_71bbce59_20260327112752",
+      "lang": "en",
+      "content": "Wie kann ich Partner werden?"
+    },
+    {
+      "id": "prod_en_83ae99fc_20260327185815",
+      "lang": "en",
+      "content": "Как работает подробно бонус profit share ?"
+    },
+    {
+      "id": "prod_en_83ae99fc_20260327185827",
+      "lang": "en",
+      "content": "How does the Profit Share work?"
+    },
+    {
+      "id": "prod_en_83ae99fc_20260327185839",
+      "lang": "en",
+      "content": "What is the trading volume?"
+    },
+    {
+      "id": "prod_en_83ae99fc_20260327185849",
+      "lang": "en",
+      "content": "What is Profit Share?"
+    },
+    {
+      "id": "prod_de_c668809d_20260327190136",
+      "lang": "de",
+      "content": "Kannst du mir helfen, bitte?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260328185723",
+      "lang": "ru",
+      "content": "Мария здравствуйте, подскажите пожалуйста, по поводу этого бонуса, Специальное предложение для новых партнёров. Пополните ваш TAG Balance на 100 USD и получите дополнительно 100 USD бонуса в рамках Dennis Fast Start Promo. С использованием модели 24x Amplify общая сумма 200 USD используется для создания счёта MT5 на 4 800 USD, подключённого к стратегии Sonic. Меня интересует где можно будет подключить 24x Amplify, или его нет уже, я только увидел 12???"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260328185803",
+      "lang": "ru",
+      "content": "Спасибо"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329062107",
+      "lang": "ru",
+      "content": "Ты Мария доброе утро, подскажите, а сколько по времени обрабатывается заявка , на бонус 100 плюс 100, и как знать что его рассмотрели , я просто не понимаю она подалась или нет?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329062158",
+      "lang": "ru",
+      "content": "А как туда обратиться если не прийдет"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329062240",
+      "lang": "ru",
+      "content": "Если можно помогите"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329062314",
+      "lang": "ru",
+      "content": "Спасибо большое"
+    },
+    {
+      "id": "prod_en_9b5368ff_20260329082001",
+      "lang": "en",
+      "content": "Hallo wenn bekomt man sein invest zurück"
+    },
+    {
+      "id": "prod_en_9b5368ff_20260329082033",
+      "lang": "en",
+      "content": "Ja ich habd 4500 investiert"
+    },
+    {
+      "id": "prod_en_9b5368ff_20260329082135",
+      "lang": "en",
+      "content": "Das problem ist ich bin nicht im Retungsschirm habe nicht mehr investiert möchte aussteigen"
+    },
+    {
+      "id": "prod_en_9b5368ff_20260329082304",
+      "lang": "en",
+      "content": "Ja das problem ist uch habe nicht mehr verfolgt ich weiss nicht mehr wo ich mich einloggen muss um das guthaben zusehen"
+    },
+    {
+      "id": "prod_en_9b5368ff_20260329082431",
+      "lang": "en",
+      "content": "Ui ich weiss meine login daten nicht mege"
+    },
+    {
+      "id": "prod_en_9b5368ff_20260329082724",
+      "lang": "en",
+      "content": "Ja bitte hilf mir"
+    },
+    {
+      "id": "prod_en_9b5368ff_20260329082821",
+      "lang": "en",
+      "content": "Kanst mir nochmal die webseite sagen"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329082913",
+      "lang": "de",
+      "content": "wie funktioniert copy-x bei tagmarkets für sonic"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083005",
+      "lang": "de",
+      "content": "ja, ich hab schon eine strategie mit neofx"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083042",
+      "lang": "de",
+      "content": "welche der beiden strategien hat mehr rendite"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083122",
+      "lang": "de",
+      "content": "ich würde beide strategien wählen. gibt es einen unterschied im bezug auf verlust des geldes"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083146",
+      "lang": "de",
+      "content": "ja, ich hab schon neofx und würde zusätzlich sonic probieren."
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083202",
+      "lang": "de",
+      "content": "gibt es eine promo aktion für sonic"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083227",
+      "lang": "de",
+      "content": "hab diese promo schon bei neofx benutzt. kann ich das nochmal machen"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083318",
+      "lang": "de",
+      "content": "kannst du mir zeigen, wie ich sonic einrichte ? hab guthaben bei tagmarkets im wallet"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329083352",
+      "lang": "en",
+      "content": "Sind das die gleichen logindaten wie damals bei Darwin"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083356",
+      "lang": "de",
+      "content": "danke. wie werden die erträge gutgeschrieben und wie kann ich sie abheben"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083440",
+      "lang": "de",
+      "content": "ja. ich habe keinen account bei jetup, nur bei tagmarkets. wie erhalte ich zugang zu jetup portal"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329083447",
+      "lang": "en",
+      "content": "Ja und wie über nimt das den das invest von damals wo ich investiert habe"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083532",
+      "lang": "de",
+      "content": "kannst du mir einen link geben zur registrierung"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329083537",
+      "lang": "en",
+      "content": "Ok du muss mir helfen wie ich mich registrieren muss dort"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083801",
+      "lang": "de",
+      "content": "wenn ich sonic aktiviere, gibt es dann auch den 24x multiplikator"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083849",
+      "lang": "de",
+      "content": "wird der multiplikator automatisch hinzugefügt, wenn ich eine sonic-copy-trading strategie hinzufüge"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083904",
+      "lang": "de",
+      "content": "nein. wo finde ich den"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329083935",
+      "lang": "de",
+      "content": "erkläre mir bitte, wie das genau geht"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329084524",
+      "lang": "de",
+      "content": "das hat geklappt danke"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329084554",
+      "lang": "de",
+      "content": "ich finde leider den registrierungslink bei jetup nicht. hast du einen screenshot"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329084622",
+      "lang": "de",
+      "content": "ich seh den button nicht"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329084716",
+      "lang": "en",
+      "content": "Ich habe mich registriert komme nicht rein"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329084738",
+      "lang": "en",
+      "content": "Tag markets"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329084754",
+      "lang": "de",
+      "content": "find ich den button auf jet-up.ai ?"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329084810",
+      "lang": "en",
+      "content": "Ja bitte sag mir noch mal die wbseit"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329084849",
+      "lang": "de",
+      "content": "ich bin aber gerade auf der seite jet-up.ai , hier ist doch der ki-chat"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329084914",
+      "lang": "en",
+      "content": "Ich komme nicht rein"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329084933",
+      "lang": "en",
+      "content": "Bitte weiterleiten"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329085011",
+      "lang": "en",
+      "content": "niklaus.schwab@gmail.com"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329085042",
+      "lang": "en",
+      "content": "Meine login daten werden nicht akzeptiert"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329085057",
+      "lang": "en",
+      "content": "Danke"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329085200",
+      "lang": "de",
+      "content": "auf der seite, die du nennst finde ich nur die login-maske, keine möglichkeit zur neuregistrierung"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329085230",
+      "lang": "de",
+      "content": "ich hab keinen kontakt mehr zu dem übergeordneten partner"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329085311",
+      "lang": "de",
+      "content": "danke ,das mach ich"
+    },
+    {
+      "id": "prod_de_66387ff5_20260329085317",
+      "lang": "de",
+      "content": "allo JetUP-Team, ich benötige Unterstützung bei der Registrierung, da ich keinen Kontakt mehr zu meinem übergeordneten Partner habe. Könnt ihr mir bitte helfen?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329090233",
+      "lang": "ru",
+      "content": "Подскажите чтобы пришли этибонусы нужно активировать торговый счёт?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329090307",
+      "lang": "ru",
+      "content": "Как его активировать"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329090332",
+      "lang": "ru",
+      "content": "Нужна помощь"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329093627",
+      "lang": "ru",
+      "content": "Мария подскажите я правильно понял я сейчас открываю торговый счёт на тот баланс что у меня есть 100 и потомбону туда подтянется приплюсуется или как"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329093749",
+      "lang": "ru",
+      "content": "Я открываю и запускаю правильно и"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329093805",
+      "lang": "en",
+      "content": "Hallo so ich bin jezt im konto"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329093813",
+      "lang": "ru",
+      "content": "Понял спасибо"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329093855",
+      "lang": "en",
+      "content": "Möchte wissen wue und wo ich das sehhe was ich damals bei Darwin investiert habe"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329093919",
+      "lang": "en",
+      "content": "Ja bitte"
+    },
+    {
+      "id": "prod_en_3f0941ee_20260329094542",
+      "lang": "en",
+      "content": "Ist denn diese Investition verloren wenn ich die 10% nicht einzahle"
+    },
+    {
+      "id": "prod_en_6b9d8a9d_20260329103143",
+      "lang": "en",
+      "content": "Kennst du das Darwin Programm"
+    },
+    {
+      "id": "prod_en_6b9d8a9d_20260329103214",
+      "lang": "en",
+      "content": "Where is my Upline Partner"
+    },
+    {
+      "id": "prod_en_6b9d8a9d_20260329103242",
+      "lang": "en",
+      "content": "I dont have any contat Information"
+    },
+    {
+      "id": "prod_en_6b9d8a9d_20260329103324",
+      "lang": "en",
+      "content": "Do you Know The jet up Telegram bot?"
+    },
+    {
+      "id": "prod_en_ad60f0e7_20260329112432",
+      "lang": "en",
+      "content": "Hi.. if i would like to participate.... but i do not have 10% of darwin invest any more. Does it count, and is it possible?"
+    },
+    {
+      "id": "prod_en_ad60f0e7_20260329112500",
+      "lang": "en",
+      "content": "Can you explain investing options?"
+    },
+    {
+      "id": "prod_en_ad60f0e7_20260329112519",
+      "lang": "en",
+      "content": "What are the benefits of each?"
+    },
+    {
+      "id": "prod_en_ad60f0e7_20260329112535",
+      "lang": "en",
+      "content": "How does Sonic strategy work?"
+    },
+    {
+      "id": "prod_en_ad60f0e7_20260329112558",
+      "lang": "en",
+      "content": "What risks should I consider?"
+    },
+    {
+      "id": "prod_en_ad60f0e7_20260329112622",
+      "lang": "en",
+      "content": "How to improve risk management?"
+    },
+    {
+      "id": "prod_en_ad60f0e7_20260329112641",
+      "lang": "en",
+      "content": "How to diversify investments?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329121418",
+      "lang": "ru",
+      "content": "Мария как узнать какой я открыл торговый счёт"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329121502",
+      "lang": "ru",
+      "content": "Как войти в свой счёт?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329121607",
+      "lang": "ru",
+      "content": "Скажи если я неподключал стратегию она могла сама подключится"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329121642",
+      "lang": "ru",
+      "content": "У меня сама подключилась"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329121737",
+      "lang": "ru",
+      "content": "Какпонять что она активная или нет, и можно ее поменять"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329121811",
+      "lang": "ru",
+      "content": "Да подскажи как это сделать"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329122023",
+      "lang": "ru",
+      "content": "А если деньги сняло я могу их на другую стратегию перевести"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329122048",
+      "lang": "ru",
+      "content": "Напиши подробности"
+    },
+    {
+      "id": "prod_en_ed88da7e_20260329134301",
+      "lang": "en",
+      "content": "ich habe einem Interessenten meinen ref-link partner von ibportal gegeben. Jedoch kann sich der Interessent dort kein Konto anlegen. Es kommt stets eine Fehlermeldung, die so schnell wieder verschwindet, dass er nur einen teil lesen konnte. Das war: error enrolling distributor. Was bedeudet das?"
+    },
+    {
+      "id": "prod_en_ed88da7e_20260329134317",
+      "lang": "en",
+      "content": "What is TAG Markets Support?"
+    },
+    {
+      "id": "prod_de_f7046314_20260329142536",
+      "lang": "de",
+      "content": "Hallo Maria"
+    },
+    {
+      "id": "prod_de_f7046314_20260329142558",
+      "lang": "de",
+      "content": "Kann man Bit 1 schon nutzen"
+    },
+    {
+      "id": "prod_de_f7046314_20260329142836",
+      "lang": "de",
+      "content": "Nein ich meine die Bit1 exchange"
+    },
+    {
+      "id": "prod_de_f7046314_20260329142944",
+      "lang": "de",
+      "content": "Wann ist es geplant die sie live kommt"
+    },
+    {
+      "id": "prod_de_f7046314_20260329143020",
+      "lang": "de",
+      "content": "Dank du auch"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329162543",
+      "lang": "ru",
+      "content": "Подскажи если стратегия автоматически подключилась она будет работать нормально или нужно переподкчить"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329162621",
+      "lang": "ru",
+      "content": "А как понять что она работает и что всё правильно"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329162709",
+      "lang": "ru",
+      "content": "А как узнать что она активная"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329162819",
+      "lang": "ru",
+      "content": "На сколько стратегия подключается времени"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329162842",
+      "lang": "ru",
+      "content": "А на какой период"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329163015",
+      "lang": "ru",
+      "content": "Ага если мне автавтоматически подключилась стратегия и там ещё бонус, и я захочу переподкючить стратегию то бонус теряется"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329163108",
+      "lang": "ru",
+      "content": "Если бонус только на Соник то переподкючится я могу на соник"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329163132",
+      "lang": "ru",
+      "content": "Напиши как это сделать"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329163212",
+      "lang": "ru",
+      "content": "А деньги с этой стратегии перейдут сразу в другую или нужно ждать"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329163252",
+      "lang": "ru",
+      "content": "А когда отключаешь стратегию они сразу приходят на счёт деньги"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329163458",
+      "lang": "ru",
+      "content": "Где находится Егора дисконект"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329163519",
+      "lang": "ru",
+      "content": "Кнопка дисконнект в стратегии"
+    },
+    {
+      "id": "prod_de_551e3201_20260329164248",
+      "lang": "de",
+      "content": "Hi ich hatte bei Darin 3000 investiert ist das Geld wieder zurück"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329165552",
+      "lang": "ru",
+      "content": "Можно отключить стратегию Sonic?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329165642",
+      "lang": "ru",
+      "content": "Я не могу узнать подключена ли у меня стратегия"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329165748",
+      "lang": "ru",
+      "content": "Не получается не как не могу понять"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329195027",
+      "lang": "de",
+      "content": "Was ist die Sonic-Strategie?"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329195056",
+      "lang": "de",
+      "content": "Kann ich JetUP dafür nutzen?"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329195155",
+      "lang": "de",
+      "content": "Wie starte ich mit JetUP?"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329195427",
+      "lang": "de",
+      "content": "Wo ist der Button zur Registrierung"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329204937",
+      "lang": "de",
+      "content": "Wo finde ich den Partner link"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329205504",
+      "lang": "de",
+      "content": "Der link funktioniert leider nicht"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329205853",
+      "lang": "de",
+      "content": "Ich brauche den link von jetup"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260329210133",
+      "lang": "de",
+      "content": "Den Partnerlink findest du im IB Portal"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329224915",
+      "lang": "ru",
+      "content": "Мария подскажи мне я хочу ещё один себе новыйакаунт завести, я смогу получить бонус 1100 плюс сто"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329225009",
+      "lang": "ru",
+      "content": "Лучше тогда открыть на чистом новый акаунт"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329225046",
+      "lang": "ru",
+      "content": "Если я так сделаю я не нарушаю правила"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329225148",
+      "lang": "ru",
+      "content": "Можно открыть новый аккаунт на сестру но номер телефон один о тот же"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260329225244",
+      "lang": "ru",
+      "content": "А на одном устройстве заходить в разные акаунт это норм"
+    },
+    {
+      "id": "prod_ru_0656030f_20260330032444",
+      "lang": "ru",
+      "content": "Как зарегистрироваться в IB Portal?"
+    },
+    {
+      "id": "prod_ru_0656030f_20260330032634",
+      "lang": "ru",
+      "content": "Как регестрироваться"
+    },
+    {
+      "id": "prod_ru_0656030f_20260330032658",
+      "lang": "ru",
+      "content": "Где найти кнопку регистрации?"
+    },
+    {
+      "id": "prod_ru_0656030f_20260330032939",
+      "lang": "ru",
+      "content": "Где ещё искать кнопку?"
+    },
+    {
+      "id": "prod_ru_0656030f_20260330033104",
+      "lang": "ru",
+      "content": "А где именно искать кнопку?"
+    },
+    {
+      "id": "prod_ru_0656030f_20260330033255",
+      "lang": "ru",
+      "content": "Где найти кнопку входа?"
+    },
+    {
+      "id": "prod_en_80648ba4_20260330041935",
+      "lang": "en",
+      "content": "What is JetUP's return rate?"
+    },
+    {
+      "id": "prod_en_80648ba4_20260330041950",
+      "lang": "en",
+      "content": "What is JetUP's best strategy?"
+    },
+    {
+      "id": "prod_en_80648ba4_20260330042000",
+      "lang": "en",
+      "content": "How do I choose JetUP?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330055512",
+      "lang": "ru",
+      "content": "Привет, подскажи ещё бонус есть не убрали его сто плюс сто"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330070128",
+      "lang": "ru",
+      "content": "Подскажи как поменять пароль если забыл"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330071948",
+      "lang": "ru",
+      "content": "И что дальше делать розпеши пошагово"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330072305",
+      "lang": "ru",
+      "content": "А если всеравно не заходит"
+    },
+    {
+      "id": "prod_de_9c872a7a_20260330092434",
+      "lang": "de",
+      "content": "Hallo, ich bin als ehemaliges Darwin Mitglied bei TagMarkets bereits angemeldet und nutze die Copy Trading Strategien. Wie kann ich mich nun bei Jetup anmelden bzw registrieren?"
+    },
+    {
+      "id": "prod_de_9c872a7a_20260330092517",
+      "lang": "de",
+      "content": "ich probiere es mal, danke..."
+    },
+    {
+      "id": "prod_de_9c872a7a_20260330093245",
+      "lang": "de",
+      "content": "auf welcher seite genau kann ich mich bei jetup registrieren? Kannst Du mir einen link geben?"
+    },
+    {
+      "id": "prod_de_9c872a7a_20260330093257",
+      "lang": "de",
+      "content": "danke"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330111021",
+      "lang": "ru",
+      "content": "Подскажи если пополнил баланс а деньги уже два часа как нету"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330111108",
+      "lang": "ru",
+      "content": "Спасибо за помощь"
+    },
+    {
+      "id": "prod_de_0d841b28_20260330113545",
+      "lang": "de",
+      "content": "Immer noch nicht gelöst. ich habe einem potentiellen Partner meinen Ref-Link von Jet-up gegeben. Damit hat sich dieser neue Kunde angemeldet. Jedoch sehe ich diesen neuen Partner nicht in meiner Struktur"
+    },
+    {
+      "id": "prod_de_0d841b28_20260330113700",
+      "lang": "de",
+      "content": "Wo finde ich die E-Mail-Adresse?"
+    },
+    {
+      "id": "prod_de_0d841b28_20260330113711",
+      "lang": "de",
+      "content": "hilf mir"
+    },
+    {
+      "id": "prod_de_0d841b28_20260330113753",
+      "lang": "de",
+      "content": "nein, da gibt es keine fussnote"
+    },
+    {
+      "id": "prod_de_0d841b28_20260330113820",
+      "lang": "de",
+      "content": "ich habe mich in meinen jetup Account eingeloggt und da finde ich keinen Support"
+    },
+    {
+      "id": "prod_de_0d841b28_20260330114029",
+      "lang": "de",
+      "content": "ich bin auf der seite jetup.ibportal.io und finde nirgends eine Support-Adresse"
+    },
+    {
+      "id": "prod_de_0d841b28_20260330114039",
+      "lang": "de",
+      "content": "Wie kontaktiere ich JetUP direkt?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330120824",
+      "lang": "ru",
+      "content": "Подскажи я пополнил на сто деньги пришли на счёт я зашёл в св стратегию, и подал на бонус сто они мне добавятся в стратегию"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330121019",
+      "lang": "ru",
+      "content": "Я подался на бонус и зашёл в стратегию прийдетбонусН"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330121051",
+      "lang": "ru",
+      "content": "Ок спасибо"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330135623",
+      "lang": "ru",
+      "content": "Скажи как остановить стратегию и вывести деньги на счёт"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330135718",
+      "lang": "ru",
+      "content": "Это нужно нажать кнопку стоп"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330135749",
+      "lang": "ru",
+      "content": "Они автоматически перейдут на счёт"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330135847",
+      "lang": "ru",
+      "content": "И скажи после этого мне должны начислить бонусы после того когда деньги окажутся на балансе"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330193826",
+      "lang": "ru",
+      "content": "Мали подскажи как понять какой доход с сделки капает на баланс"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330194045",
+      "lang": "ru",
+      "content": "Давай посчитаем доход, если допустив стратегии 200 с плечом 24икс и"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330194112",
+      "lang": "ru",
+      "content": "В Соник 200"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260330194831",
+      "lang": "ru",
+      "content": "А розпеши так если вложить 300 в неоикс"
+    },
+    {
+      "id": "prod_ru_d0ef27db_20260331111420",
+      "lang": "ru",
+      "content": "Здравствуйте, вчера подал заявку на бонусную программу 100 долларов,прошло 24 часа, на депозит поступлений небыло"
+    },
+    {
+      "id": "prod_ru_d0ef27db_20260331111448",
+      "lang": "ru",
+      "content": "CU258658"
+    },
+    {
+      "id": "prod_ru_d0ef27db_20260331111506",
+      "lang": "ru",
+      "content": "pasha.7979@internet.ru"
+    },
+    {
+      "id": "prod_de_a97408de_20260331135724",
+      "lang": "de",
+      "content": "Guten Tag, wie lange dauert es ungefähr, bis der Bonus in Höhe von 100$ gutgeschrieben wird?"
+    },
+    {
+      "id": "prod_de_a97408de_20260331135744",
+      "lang": "de",
+      "content": "Nein - Danke!!"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331141830",
+      "lang": "en",
+      "content": "What is the process to participate after kyc?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331142140",
+      "lang": "en",
+      "content": "First, I don't know what is ib portal. 2) I already said already done kyc. 3) I do not have the mt5 info at all, and deposit is always not done through mt5"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331145312",
+      "lang": "en",
+      "content": "I had already done kyc, but no mt5 info given. So there's no point to download mt5, since no way to login without tagmarjets giving login info. So how to get login info??"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331145514",
+      "lang": "en",
+      "content": "Tell me the steps: do I deposit first? Or do I enrol the fast start first? Btw, how to enroll fast start?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331145636",
+      "lang": "en",
+      "content": "What is tag balance? Where to find it? Is tag balance link to my account? So I do not need to deposit to my account?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331145739",
+      "lang": "en",
+      "content": "Wait. So where do I do deposit? Ibportal or tagmarkets??"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331145828",
+      "lang": "en",
+      "content": "So what's the step? Sign up fast start at jetup.ai first? Then deposit? Or...????"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331145851",
+      "lang": "en",
+      "content": "Do after deposit, what's next?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331150001",
+      "lang": "en",
+      "content": "So after deposit, how to or where to get mt5 info? Or sign up a mt5 account?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331150042",
+      "lang": "en",
+      "content": "So after deposit, I will have mt5 account. What's next?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331150234",
+      "lang": "en",
+      "content": "I do not want to trade myself. So mo point running mt5. How to link to strategy? Btw, doesn't the company even has a basic step by step guide then I going through these qna nonsense?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331150331",
+      "lang": "en",
+      "content": "I just want to have the sign up process guide. Don't give me the whole chuck of nonsense!!!"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260331150412",
+      "lang": "en",
+      "content": "So the company doesn't have a guide at all??? Such a simple thing?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260331161354",
+      "lang": "ru",
+      "content": "Привет скажи мне пожалуйста что такое мнл"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260331161424",
+      "lang": "ru",
+      "content": "Нет пнл"
+    },
+    {
+      "id": "prod_de_59fc0931_20260331183436",
+      "lang": "de",
+      "content": "Hallo Maria, ich kann mich mit meinen Tag Market Einloggdaten nicht im JetupIBPortal einloggen. Da kommt immer eine Fehlermeldung mit Severerror. Kannst du mir da helfen? Viele Grüße Jeannette"
+    },
+    {
+      "id": "prod_de_59fc0931_20260331183526",
+      "lang": "de",
+      "content": "Ich habe schon mit denen geschrieben, die können mir nicht helfen"
+    },
+    {
+      "id": "prod_de_59fc0931_20260331183617",
+      "lang": "de",
+      "content": "Meine E-Mail: mueller-jenni@gmx.de"
+    },
+    {
+      "id": "prod_de_59fc0931_20260331183618",
+      "lang": "de",
+      "content": "Wo finde ich meine CU-Nummer?"
+    },
+    {
+      "id": "prod_de_59fc0931_20260331183645",
+      "lang": "de",
+      "content": "Meine CU Nummer CU155310"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331183653",
+      "lang": "en",
+      "content": "Hallo Maria, kannst du auch deutsch?"
+    },
+    {
+      "id": "prod_de_59fc0931_20260331183734",
+      "lang": "de",
+      "content": "Dankeschön"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331183953",
+      "lang": "en",
+      "content": "Ist die Provision für die Trader immer gleich?"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331184022",
+      "lang": "en",
+      "content": "Was ist ein lot?"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331184129",
+      "lang": "en",
+      "content": "Sonic oder neo.fx wäre interessant"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331184201",
+      "lang": "en",
+      "content": "Sonic"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331184300",
+      "lang": "en",
+      "content": "Habe ich schon. Wenn ich den Einsatz erhöhen will, muss ich ja immer in Dollar einzahlen?"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331184314",
+      "lang": "en",
+      "content": "Nein"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260331184335",
+      "lang": "en",
+      "content": "Wie starte ich mit JetUP?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190000",
+      "lang": "de",
+      "content": "Hi wollte über Dennis seine super promo fragen?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190120",
+      "lang": "de",
+      "content": "Kannst du checken ob ich berechtigt bin meine cu163370"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190308",
+      "lang": "de",
+      "content": "Wo finde ich meine TAG Balance?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190345",
+      "lang": "de",
+      "content": "Was ist das bin auf Tragmarktes.com"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190439",
+      "lang": "de",
+      "content": "Und von was hast du vebat das war andere Seite ?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190535",
+      "lang": "de",
+      "content": "Ich will nicht vorher was einzahlen und dann bekomme ich die promo nicht"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190639",
+      "lang": "de",
+      "content": "Eben will vorher wissen ob ich berechtigt bin"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331190919",
+      "lang": "de",
+      "content": "Sag mir die richtige web Adresse von diesem in portal"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331191415",
+      "lang": "de",
+      "content": "Wie melde ich mich an?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331191608",
+      "lang": "de",
+      "content": "Bin schon bei tagmarkets und Darwin Regestrier muss das auchbsein"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331191633",
+      "lang": "de",
+      "content": "Was ist das Partner-Dashboard?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331191658",
+      "lang": "de",
+      "content": "Wo melde ich mich da an"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331191748",
+      "lang": "de",
+      "content": "Welche Logindaten von tag markets?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331191827",
+      "lang": "de",
+      "content": "Was jetzt die gleichen oder neue machen"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331192000",
+      "lang": "de",
+      "content": "Sagt login faild"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331192052",
+      "lang": "de",
+      "content": "Ich habe auch keine Mitglieder ich bin für mich selber"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331192117",
+      "lang": "de",
+      "content": "Ich will bonus von promo"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331192150",
+      "lang": "de",
+      "content": "Der Bus ist für sonik Strategien?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331193226",
+      "lang": "de",
+      "content": "Wienkriege ich raus wer meine uplone ist"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331193248",
+      "lang": "de",
+      "content": "Das geht nicht haben wir doch versucht"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331193440",
+      "lang": "de",
+      "content": "Die von tag markets sollen über jetupio wissen?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331193754",
+      "lang": "de",
+      "content": "Haben Die auch Email für Support bei tagmarkets"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331193930",
+      "lang": "de",
+      "content": "Was soll ichnauswehlen bei Department?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331194053",
+      "lang": "de",
+      "content": "Sowas gibt's bei category nicht zum auswählen"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331194123",
+      "lang": "de",
+      "content": "Subjekt ?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331194202",
+      "lang": "de",
+      "content": "Ich kann mich auf diese .io nicht anmelden"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331194430",
+      "lang": "de",
+      "content": "Muss ich auf Englisch schreiben oder geht auf deutsch"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331194513",
+      "lang": "de",
+      "content": "Mach auf Englisch Frage ob noch berechtigt bin bei Dennis promo mitzumachen?"
+    },
+    {
+      "id": "prod_de_4d99a992_20260331194739",
+      "lang": "de",
+      "content": "Erwähne sonik Strategien noch"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200508",
+      "lang": "ru",
+      "content": "Мария, здравствуйте"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200615",
+      "lang": "ru",
+      "content": "Ты можешь мне помочь разобраться почему мне не выплачивают долги из DarWin?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200628",
+      "lang": "ru",
+      "content": "Кто мой вышестоящий партнёр?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200709",
+      "lang": "ru",
+      "content": "Мой вышестоящий партнер не может мне помочь!"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200740",
+      "lang": "ru",
+      "content": "Как обратиться в поддержку DarWin?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200810",
+      "lang": "ru",
+      "content": "Ты знаешь кто такой Александр Попп?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200837",
+      "lang": "ru",
+      "content": "Кто еще в команде JetUP?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200919",
+      "lang": "ru",
+      "content": "Как я могу передать письмо Alexander Popp?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200934",
+      "lang": "ru",
+      "content": "Как связаться с поддержкой JetUP?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260331200949",
+      "lang": "ru",
+      "content": "Как связаться с поддержкой?"
+    },
+    {
+      "id": "prod_en_5b651ae7_20260401091123",
+      "lang": "en",
+      "content": "I have applied for fast start and it automatically deducted my usd100 and created one acct. But what's next? Has it started trading? And is this a mt5 account? I was not given the password"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401125217",
+      "lang": "ru",
+      "content": "Где найти дополнительную информацию?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401125538",
+      "lang": "ru",
+      "content": "Ты можешь розписать мне полностью за стратегию неофиксТы можешь мне различать"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401125658",
+      "lang": "ru",
+      "content": "Опешив чем торгует"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401125745",
+      "lang": "ru",
+      "content": "Да нужно"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401130741",
+      "lang": "ru",
+      "content": "Поспеши полнустю за стратегию Соник"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401130945",
+      "lang": "ru",
+      "content": "Позпеши полнустю про эту стратегию"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401131125",
+      "lang": "ru",
+      "content": "Дальше"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401131254",
+      "lang": "ru",
+      "content": "А теперь позпеши полностью про стратегию нео фикс"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401131442",
+      "lang": "ru",
+      "content": "Продолжай"
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172115",
+      "lang": "ru",
+      "content": "Я хочу"
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172115",
+      "lang": "ru",
+      "content": "Я хочу спросить,"
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172115",
+      "lang": "ru",
+      "content": "Какие комиссии"
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172115",
+      "lang": "ru",
+      "content": "Да, расскажи,"
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172115",
+      "lang": "ru",
+      "content": "Как распределяют"
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172115",
+      "lang": "ru",
+      "content": "Повтори."
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172116",
+      "lang": "ru",
+      "content": "Как распределять"
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172116",
+      "lang": "ru",
+      "content": "Да."
+    },
+    {
+      "id": "prod_ru_ca100214_20260401172116",
+      "lang": "ru",
+      "content": "Золото как им"
+    },
+    {
+      "id": "prod_ru_b22c8864_20260401191516",
+      "lang": "ru",
+      "content": "Как вывести доход"
+    },
+    {
+      "id": "prod_ru_b22c8864_20260401191527",
+      "lang": "ru",
+      "content": "Как вывести средства?"
+    },
+    {
+      "id": "prod_ru_b22c8864_20260401191537",
+      "lang": "ru",
+      "content": "Где найти инструкции по выводу?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260401202250",
+      "lang": "ru",
+      "content": "Ннапиши пожалуйста какой будет доход в день если у меня 200 стратегия не фик и сто Соник"
+    },
+    {
+      "id": "prod_en_f3955dc6_20260401224527",
+      "lang": "en",
+      "content": "How do I register?"
+    },
+    {
+      "id": "prod_en_f3955dc6_20260401224745",
+      "lang": "en",
+      "content": "Hallo Maria, woher bekomme ich meinen Partnerlink um mich zu registrieren?"
+    },
+    {
+      "id": "prod_de_5fc0a143_20260402073355",
+      "lang": "de",
+      "content": "Hallo Marie—"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260402173810",
+      "lang": "ru",
+      "content": "Какие будут акции в блежайший девремя"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260402173858",
+      "lang": "ru",
+      "content": "Подскажи где главный офис компании находится"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260402173933",
+      "lang": "ru",
+      "content": "У компании есть лицензия"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260402174028",
+      "lang": "ru",
+      "content": "Какая самая лучшая стратегия"
+    },
+    {
+      "id": "prod_de_1a030b8e_20260402185322",
+      "lang": "de",
+      "content": "Bin ich schon registriert?"
+    },
+    {
+      "id": "prod_de_1a030b8e_20260402185616",
+      "lang": "de",
+      "content": "Gibt es eine App für JetUP?"
+    },
+    {
+      "id": "prod_de_1a030b8e_20260402185629",
+      "lang": "de",
+      "content": "Wie kann ich JetUP nutzen?"
+    },
+    {
+      "id": "prod_de_1a030b8e_20260402185659",
+      "lang": "de",
+      "content": "Wo finde ich den Button?"
+    },
+    {
+      "id": "prod_de_1a030b8e_20260402185713",
+      "lang": "de",
+      "content": "Kannst du mir helfen?"
+    },
+    {
+      "id": "prod_de_83216716_20260402190044",
+      "lang": "de",
+      "content": "Registriern!"
+    },
+    {
+      "id": "prod_de_83216716_20260402190110",
+      "lang": "de",
+      "content": "Ist nicht da!"
+    },
+    {
+      "id": "prod_de_29262d09_20260403023158",
+      "lang": "de",
+      "content": "Ich bin mit meinem Namen angemeldet bei TagMarket und Jet-Up. Wir sind aber ein Paar. Wie kann ich meinen Partner einsetzen, so dass er die gleichen Rechte auf das Konto hat wie ich?"
+    },
+    {
+      "id": "prod_de_29262d09_20260403023448",
+      "lang": "de",
+      "content": "Also gibt es keine Möglichkeit dass er volle Rechte über mein Konto erhält oder dass er Vollmacht darüber erhält? Ich überlege einfach was geschieht mit meinem Konto, wenn mir etwas passiert"
+    },
+    {
+      "id": "prod_de_29262d09_20260403023730",
+      "lang": "de",
+      "content": "Ein Testament haben wir gemacht. Wie wäre denn das Vorgehen wenn angenommen mir etwas zustösst. Müsste mein Partner das Testament bei TagMarket vorweisen und danach hätte er Zugriff?"
+    },
+    {
+      "id": "prod_de_29262d09_20260403023834",
+      "lang": "de",
+      "content": "Nun, das Testament wurde erstellt, bevor ich mich bei TagMarkets angemeldet habe"
+    },
+    {
+      "id": "prod_de_29262d09_20260403024215",
+      "lang": "de",
+      "content": "Könnte man auch einfach einen Nachtrag zum Testament machen? Und was sind die relevanten Informationen. Konkret, was genau müsste da drinn stehen?"
+    },
+    {
+      "id": "prod_de_29262d09_20260403024254",
+      "lang": "de",
+      "content": "Gibt es dazu noch mehr Details?"
+    },
+    {
+      "id": "prod_de_29262d09_20260403024331",
+      "lang": "de",
+      "content": "Danke das reicht mir momentan so"
+    },
+    {
+      "id": "prod_de_72e6bb92_20260403040005",
+      "lang": "de",
+      "content": "Wann ist nächstesxwebinar?"
+    },
+    {
+      "id": "prod_de_72e6bb92_20260403040025",
+      "lang": "de",
+      "content": "Was ist Sonic?"
+    },
+    {
+      "id": "prod_de_72e6bb92_20260403040129",
+      "lang": "de",
+      "content": "Wir melde ich much an zur Sonic? Welche schritte?,"
+    },
+    {
+      "id": "prod_de_72e6bb92_20260403040143",
+      "lang": "de",
+      "content": "Wie eröffne ich ein Konto?"
+    },
+    {
+      "id": "prod_de_72e6bb92_20260403040153",
+      "lang": "de",
+      "content": "Wie lange dauert die Kontoeröffnung?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260403083742",
+      "lang": "de",
+      "content": "Hab jetzt an promo teilgenommen und eine Email bekommen mit der Überschrift:Hemos recibido su respuesta para Dennis Fast Start Promotion"
+    },
+    {
+      "id": "prod_de_048eb24e_20260403083817",
+      "lang": "de",
+      "content": "Warum nicht auf Englisch?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260403083913",
+      "lang": "de",
+      "content": "Wie lange warten Email Kamm am 1 april"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260403202421",
+      "lang": "ru",
+      "content": "Привет подскажи какой будет доход если вложить 1000 в стратегию Соник"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260403202515",
+      "lang": "ru",
+      "content": "А если в нео"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260403202919",
+      "lang": "ru",
+      "content": "А сколько будет приносить если 300 в Соник"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260403203025",
+      "lang": "ru",
+      "content": "А если там з 24"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260403203141",
+      "lang": "ru",
+      "content": "А если 200 нео с 24х"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260403203330",
+      "lang": "ru",
+      "content": "А если 400 с 24х"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260403203426",
+      "lang": "ru",
+      "content": "А мои в Соник 400 24х"
+    },
+    {
+      "id": "prod_en_2c410f64_20260403215159",
+      "lang": "en",
+      "content": "What is the SONIC strategy?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260403215208",
+      "lang": "en",
+      "content": "What are the initial steps?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260403215224",
+      "lang": "en",
+      "content": "How do I register in IB Portal?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260403215235",
+      "lang": "en",
+      "content": "How long does registration take?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260403215238",
+      "lang": "en",
+      "content": "Can I upgrade my account later?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404050750",
+      "lang": "ru",
+      "content": "Подскажи у меня могут убрать х24 если у меня подключена уже стратегия"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404050836",
+      "lang": "ru",
+      "content": "А организаторы могут убрать без моего согласия"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404050929",
+      "lang": "ru",
+      "content": "Я могу добавить депозит уже в открытую стратегию"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404051014",
+      "lang": "ru",
+      "content": "Я могу только реинвестировать"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404051045",
+      "lang": "ru",
+      "content": "Розпеши подробней"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404051205",
+      "lang": "ru",
+      "content": "А до стратегии я не могу докидывать"
+    },
+    {
+      "id": "prod_de_ea245d1f_20260404074819",
+      "lang": "de",
+      "content": "unter welchem Link finde ich das IB-Portal"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404093151",
+      "lang": "ru",
+      "content": "Что такое Тотал рои"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404093235",
+      "lang": "ru",
+      "content": "Да нужна"
+    },
+    {
+      "id": "prod_de_a6ab06a5_20260404094709",
+      "lang": "de",
+      "content": "Ciao Maria, wann wirst du auch auf andere Sprachen sprechen, wie italienisch oder spanisch"
+    },
+    {
+      "id": "prod_de_a6ab06a5_20260404094747",
+      "lang": "de",
+      "content": "Habe viele italienische Freunde deshalb frage ich dich"
+    },
+    {
+      "id": "prod_de_a6ab06a5_20260404094819",
+      "lang": "de",
+      "content": "Nur das mit den weiteren Sprachen integrationen. Kannst du das dem Dennis bitte einmal.mitteilen."
+    },
+    {
+      "id": "prod_de_a6ab06a5_20260404094858",
+      "lang": "de",
+      "content": "Es wäre schön, wenn dennis der inhaber Auswertungen macht"
+    },
+    {
+      "id": "prod_de_a6ab06a5_20260404094937",
+      "lang": "de",
+      "content": "66% im Jahr ?"
+    },
+    {
+      "id": "prod_de_a6ab06a5_20260404094950",
+      "lang": "de",
+      "content": "Im monat?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260404160825",
+      "lang": "ru",
+      "content": "В субботу и воскресенье не растают торги"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405155619",
+      "lang": "en",
+      "content": "What is the CU number?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405155841",
+      "lang": "en",
+      "content": "Okay so why should I trust jet up?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405155908",
+      "lang": "en",
+      "content": "So what’s is Jetup and Tag? What’s the difference? How does this flow?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405155922",
+      "lang": "en",
+      "content": "What tools does JetUP offer?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405160834",
+      "lang": "en",
+      "content": "I’ve just signed up for the fast start promo"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405160842",
+      "lang": "en",
+      "content": "How do I check my balance?"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405160943",
+      "lang": "en",
+      "content": "Don’t see the Tag Balance at all"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405161011",
+      "lang": "en",
+      "content": "It’s not even shown on the jetup Dashboard"
+    },
+    {
+      "id": "prod_en_2c410f64_20260405161021",
+      "lang": "en",
+      "content": "Can you help with my request?"
+    },
+    {
+      "id": "prod_en_e7e07caa_20260405174825",
+      "lang": "en",
+      "content": "When i investing in copyx NEO.FX, in community token should i write #NEO ?"
+    },
+    {
+      "id": "prod_en_e7e07caa_20260405174852",
+      "lang": "en",
+      "content": "Can you speak in farsi language"
+    },
+    {
+      "id": "prod_en_b16ab0b4_20260405225813",
+      "lang": "en",
+      "content": "What is JetUP strategy?"
+    },
+    {
+      "id": "prod_en_8acf1928_20260406095731",
+      "lang": "en",
+      "content": "Hi, can you explain me about recovery from Darwin"
+    },
+    {
+      "id": "prod_en_8acf1928_20260406095759",
+      "lang": "en",
+      "content": "Do you have support"
+    },
+    {
+      "id": "prod_en_8acf1928_20260406095841",
+      "lang": "en",
+      "content": "How can I use recovery +"
+    },
+    {
+      "id": "prod_de_09a5f8a2_20260406191422",
+      "lang": "de",
+      "content": "Как увеличить объем торгов?"
+    },
+    {
+      "id": "prod_en_93a27b72_20260406232218",
+      "lang": "en",
+      "content": "I have deposited $100 & filled in details under Denis - what do I do next?"
+    },
+    {
+      "id": "prod_en_93a27b72_20260406232549",
+      "lang": "en",
+      "content": "How do I use my bonus?"
+    },
+    {
+      "id": "prod_en_93a27b72_20260406232628",
+      "lang": "en",
+      "content": "Can you explain Copy-X features?"
+    },
+    {
+      "id": "prod_en_93a27b72_20260406232918",
+      "lang": "en",
+      "content": "where does the funds need moving from the wallet to start amplifying and then using it"
+    },
+    {
+      "id": "prod_en_93a27b72_20260406232949",
+      "lang": "en",
+      "content": "How do I move funds?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260407091037",
+      "lang": "de",
+      "content": "Bis jetzt immer noch nichts passiert"
+    },
+    {
+      "id": "prod_de_048eb24e_20260407091153",
+      "lang": "de",
+      "content": "Gib mir Emailadresse"
+    },
+    {
+      "id": "prod_de_048eb24e_20260407091218",
+      "lang": "de",
+      "content": "Hilfe brauche E-Mail Adresse"
+    },
+    {
+      "id": "prod_de_048eb24e_20260407091258",
+      "lang": "de",
+      "content": "Du bist nutzlos"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407091804",
+      "lang": "en",
+      "content": "How to register to trade on your own account"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407092016",
+      "lang": "en",
+      "content": "If one opens a personal trading account within the Partner Program to trade on their own behalf, how is the commission generated?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407092805",
+      "lang": "en",
+      "content": "How is trading volume calculated?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407092841",
+      "lang": "en",
+      "content": "What are lots in trading?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407092920",
+      "lang": "en",
+      "content": "What are mini and micro lots?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407092956",
+      "lang": "en",
+      "content": "What is a standard lot?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407093033",
+      "lang": "en",
+      "content": "Can I trade with JetUP?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407093101",
+      "lang": "en",
+      "content": "How do I open an account?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407093137",
+      "lang": "en",
+      "content": "Is it secure to open an account?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407093204",
+      "lang": "en",
+      "content": "What are your security measures?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407111850",
+      "lang": "en",
+      "content": "What security protocols do you use?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407111947",
+      "lang": "en",
+      "content": "Can I withdrawal my friend if get up website will closed"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407112018",
+      "lang": "en",
+      "content": "How do I withdraw funds?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407112258",
+      "lang": "en",
+      "content": "How will we know that trades are open?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407123035",
+      "lang": "en",
+      "content": "अगर 100$ से एन्ट्री करेगा उसे +100*24x= 4800 मिलेगा तो क्या लॉट कमिशन और साजेदारी कमिशन लेने के लिए पात्र रहेगा?"
+    },
+    {
+      "id": "prod_en_5d85560c_20260407123118",
+      "lang": "en",
+      "content": "What are the commission details?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260407143156",
+      "lang": "ru",
+      "content": "Почему неофит с 3 числа не заходит в сделки"
+    },
+    {
+      "id": "prod_de_66387ff5_20260407193357",
+      "lang": "de",
+      "content": "Wie lange dauert die Antwort?"
+    },
+    {
+      "id": "prod_de_66387ff5_20260407193416",
+      "lang": "de",
+      "content": "bisher hat sich niemand gemeldet..."
+    },
+    {
+      "id": "prod_de_66387ff5_20260407193440",
+      "lang": "de",
+      "content": "wie ist denn die andere kontaktmöglichkeit"
+    },
+    {
+      "id": "prod_en_488541f0_20260407195052",
+      "lang": "en",
+      "content": "MY 100 DOLLARS HAS NOT BEEN DEPOSITED FROM DENNIS"
+    },
+    {
+      "id": "prod_en_488541f0_20260407195132",
+      "lang": "en",
+      "content": "THEMIGHTYSILVERFOX@GMAIL.COM CU267615"
+    },
+    {
+      "id": "prod_en_488541f0_20260407195146",
+      "lang": "en",
+      "content": "THANKS"
+    },
+    {
+      "id": "prod_de_cd835c05_20260407203713",
+      "lang": "de",
+      "content": "Ich benötige den Link von meine Sponsor. Was ist ein sponsor?"
+    },
+    {
+      "id": "prod_de_cd835c05_20260407203724",
+      "lang": "de",
+      "content": "Wie finde ich meinen Sponsor?"
+    },
+    {
+      "id": "prod_de_cd835c05_20260407203805",
+      "lang": "de",
+      "content": "Wer ist mein Sponsor?"
+    },
+    {
+      "id": "prod_de_b229e608_20260408071440",
+      "lang": "de",
+      "content": "wie lange dauert die Gutschrift der 100$?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408081011",
+      "lang": "de",
+      "content": "Was ist copy x"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408081040",
+      "lang": "de",
+      "content": "Und was ist TSG markets?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408081121",
+      "lang": "de",
+      "content": "Was ist unterschiedlich zwischen den beiden Platformen"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408081510",
+      "lang": "de",
+      "content": "Wie komme ich ins copy?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408081710",
+      "lang": "de",
+      "content": "Ib.jetup?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408081755",
+      "lang": "de",
+      "content": "Wie anmelden?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408081919",
+      "lang": "de",
+      "content": "Ich sehe nur Anmeldenmaske"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408082000",
+      "lang": "de",
+      "content": "Kann ich mit tagmarkets Daten einloggen?"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408082017",
+      "lang": "de",
+      "content": "Ok wie"
+    },
+    {
+      "id": "prod_de_048eb24e_20260408082053",
+      "lang": "de",
+      "content": "Springt automatisch ins Login"
+    },
+    {
+      "id": "prod_en_488541f0_20260408105214",
+      "lang": "en",
+      "content": "did you check my promo please"
+    },
+    {
+      "id": "prod_en_488541f0_20260408105235",
+      "lang": "en",
+      "content": "how long does it take"
+    },
+    {
+      "id": "prod_en_488541f0_20260408105331",
+      "lang": "en",
+      "content": "also my money 100 is not showing in my wallet, but when you click on the wallet it shows 100 in deposit. is this correct"
+    },
+    {
+      "id": "prod_ru_39ea2f65_20260408115617",
+      "lang": "ru",
+      "content": "Какие регламенты вывода средств с таг маркета?"
+    },
+    {
+      "id": "prod_ru_39ea2f65_20260408115644",
+      "lang": "ru",
+      "content": "Какой регламент по времени на вывод средств и каких сумм?"
+    },
+    {
+      "id": "prod_en_19e40c73_20260408122159",
+      "lang": "en",
+      "content": "where do i see the amount which i reinvested in tagmarkets"
+    },
+    {
+      "id": "prod_en_19e40c73_20260408122248",
+      "lang": "en",
+      "content": "could not find"
+    },
+    {
+      "id": "prod_en_19e40c73_20260408122325",
+      "lang": "en",
+      "content": "how to check amount that was reinvested"
+    },
+    {
+      "id": "prod_en_19e40c73_20260408122351",
+      "lang": "en",
+      "content": "its not there in transaction history"
+    },
+    {
+      "id": "prod_en_19e40c73_20260408122402",
+      "lang": "en",
+      "content": "How do I contact support?"
+    },
+    {
+      "id": "prod_en_8baaa153_20260408140658",
+      "lang": "en",
+      "content": "Здравствуйте.Сколько времени длится зачисление 100+100 на торговый счёт после подачи заявки и пополнения депа в ТАG?"
+    },
+    {
+      "id": "prod_en_8baaa153_20260408140830",
+      "lang": "en",
+      "content": "нет, ок"
+    },
+    {
+      "id": "prod_en_5acdbd4b_20260408153231",
+      "lang": "en",
+      "content": "Yesterday I applied for Dennis' promotion but I didn't get a confirmation. Is this normal ?"
+    },
+    {
+      "id": "prod_en_40056610_20260408173221",
+      "lang": "en",
+      "content": "how much is a lot trade?"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260408190127",
+      "lang": "de",
+      "content": "Hallo Maria, ich bin seit 2 Wochen im Recovery Plus Programm. W1 wurde auf eines meiner Tagmarketskontren ausbezahlt. W2 vom 7 April allerdings noch nicht, obwohl es verbucht wurde. Gibt es da manchmal zeitliche Verzögerungen? Und wenn ja wie lange?"
+    },
+    {
+      "id": "prod_en_9e7eba53_20260408190219",
+      "lang": "en",
+      "content": "Wie bekomme ich aus Recovery Plus meinen Betrag von 49,13 USDT in mein Tag Market konto?"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260408190250",
+      "lang": "de",
+      "content": "ok. Passiert das häufig beim Recovery Plus Programm (verspätete Auszahlung)?"
+    },
+    {
+      "id": "prod_en_9e7eba53_20260408190259",
+      "lang": "en",
+      "content": "aha - also ist Recovery Plus kein Teil von JetUp?"
+    },
+    {
+      "id": "prod_en_9e7eba53_20260408190318",
+      "lang": "en",
+      "content": "aha - danke"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260408190355",
+      "lang": "de",
+      "content": "also alles was über dieses Portal läuft https://jetup.ibportal.io/recovery-plus wird mit tagmarkets support geklärt?"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260408190423",
+      "lang": "de",
+      "content": "sozusagen einfach ein support ticket eröffnen"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260408190442",
+      "lang": "de",
+      "content": "ich warte noch bis morgen ab"
+    },
+    {
+      "id": "prod_de_b5f65970_20260409081400",
+      "lang": "de",
+      "content": "Wenn ich an der Dennis Fast Promo teilnehmen möchte, muss das Geld schon bei Tagmarkets eingezahlt worden sein oder muss ich warten, bis die Bestätigungsmail angekommen ist und dann erst bei Tagmarkets das Balance Konto aufladen?"
+    },
+    {
+      "id": "prod_de_b5f65970_20260409081542",
+      "lang": "de",
+      "content": "Wie kann ich einzahlen?"
+    },
+    {
+      "id": "prod_de_b5f65970_20260409082220",
+      "lang": "de",
+      "content": "Und wie verbinde ich mich mit der Sonic Strategie?"
+    },
+    {
+      "id": "prod_de_b5f65970_20260409082821",
+      "lang": "de",
+      "content": "Was ist wenn ich von Darwin Rettungsschirm komme?"
+    },
+    {
+      "id": "prod_de_f7046314_20260409173509",
+      "lang": "de",
+      "content": "Bit1 Exchange"
+    },
+    {
+      "id": "prod_de_0257afc3_20260409191115",
+      "lang": "de",
+      "content": "Wo kann ich mir die Aufzeichnung vom heutigen AMA anschauen"
+    },
+    {
+      "id": "prod_de_048eb24e_20260409192010",
+      "lang": "de",
+      "content": "Mit welcher Adresse bin ich hier registriert?"
+    },
+    {
+      "id": "prod_de_5ff8c25a_20260409192441",
+      "lang": "de",
+      "content": "Was ist ein jetup_bot"
+    },
+    {
+      "id": "prod_de_5ff8c25a_20260409192506",
+      "lang": "de",
+      "content": "Wie komme ich zu dem"
+    },
+    {
+      "id": "prod_de_5ff8c25a_20260409193010",
+      "lang": "de",
+      "content": "Wo kann ich hier mich mit der Darwin Adresse registrieren?"
+    },
+    {
+      "id": "prod_de_5ff8c25a_20260409193114",
+      "lang": "de",
+      "content": "In der Nachricht stand bei jetup_bot über Telegramm registrieren"
+    },
+    {
+      "id": "prod_de_5ff8c25a_20260409193158",
+      "lang": "de",
+      "content": "Nicht gefunden"
+    },
+    {
+      "id": "prod_en_631b16bd_20260410035126",
+      "lang": "en",
+      "content": "rettungsschirm"
+    },
+    {
+      "id": "prod_en_631b16bd_20260410035139",
+      "lang": "en",
+      "content": "What does 'rettungsschirm' mean?"
+    },
+    {
+      "id": "prod_de_cd835c05_20260410062901",
+      "lang": "de",
+      "content": "Ich möchte mich registrieren"
+    },
+    {
+      "id": "prod_en_0ef64c76_20260410083856",
+      "lang": "en",
+      "content": "How do get my funds from Darwin?"
+    },
+    {
+      "id": "prod_en_0ef64c76_20260410084023",
+      "lang": "en",
+      "content": "but according to Darwin its like also Jetup connected to Darwin"
+    },
+    {
+      "id": "prod_de_e9c04bc0_20260410111755",
+      "lang": "de",
+      "content": "hallo warum wurde mir bis jetzt das Geld aus dem Rettungsschirm von Jet Up nicht auf das Sonic Konto eingezahlt"
+    },
+    {
+      "id": "prod_de_e9c04bc0_20260410111941",
+      "lang": "de",
+      "content": "liondav67@gmail.com CU159132"
+    },
+    {
+      "id": "prod_en_6b15ea82_20260410120724",
+      "lang": "en",
+      "content": "Hi, I'm trying to sign up someone to Jet-up.ai but they have registered with Jet-up and have not received any email to verify his account. Name is Alan Balfour and email address is reikidoc@hd-healthdimensions.co.uk Please can you advise?"
+    },
+    {
+      "id": "prod_en_591b493c_20260410124203",
+      "lang": "en",
+      "content": "Hello,"
+    },
+    {
+      "id": "prod_en_591b493c_20260410124228",
+      "lang": "en",
+      "content": "My name is Berthold Otzisk"
+    },
+    {
+      "id": "prod_en_591b493c_20260410124406",
+      "lang": "en",
+      "content": "I have (or had) a Jetup account via Darwin Enterprise. But since February is shows: Account deleted"
+    },
+    {
+      "id": "prod_en_591b493c_20260410124532",
+      "lang": "en",
+      "content": "Darwin Enterprise only communicates via Jetup. And I cannot communite with them anymore because of the deleted account."
+    },
+    {
+      "id": "prod_en_591b493c_20260410124619",
+      "lang": "en",
+      "content": "Ok. I will ty"
+    },
+    {
+      "id": "prod_en_591b493c_20260410124635",
+      "lang": "en",
+      "content": "Thank you"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260410151019",
+      "lang": "ru",
+      "content": "Какое плечо в стратегиях?"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260410151047",
+      "lang": "ru",
+      "content": "Это в месяц такая доходность?"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260410151153",
+      "lang": "ru",
+      "content": "Эти проценты это в месяц?"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260410151218",
+      "lang": "ru",
+      "content": "Какое плечо в разных стратегиях?"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260410151239",
+      "lang": "ru",
+      "content": "От какой суммы можно стартовать?"
+    },
+    {
+      "id": "prod_de_1b87d1ee_20260410155532",
+      "lang": "de",
+      "content": "Warum sehe ich auf Jetup im TAG Wallet nicht mein Guthaben bei TAG-Markets?"
+    },
+    {
+      "id": "prod_de_1b87d1ee_20260410155611",
+      "lang": "de",
+      "content": "Kannst du mir den Link geben?"
+    },
+    {
+      "id": "prod_de_1b87d1ee_20260410155720",
+      "lang": "de",
+      "content": "Du hast mich nicht verstanden. Ich sehe mein Wallet Guthaben auf der TAG-Markets Seite schon, aber auf jetup.ibportal nicht. Warum?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260410181813",
+      "lang": "ru",
+      "content": "Здравствуйте. Скажите, а через эту службу поддержки я могу передать для Дениса письмо? У вас есть с ним связь?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260410181835",
+      "lang": "ru",
+      "content": "Какие каналы связи доступны?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260410181903",
+      "lang": "ru",
+      "content": "Что такое платформа JetUP?"
+    },
+    {
+      "id": "prod_ru_248295ac_20260410181942",
+      "lang": "ru",
+      "content": "Дай ссылку на сайт JetUp"
+    },
+    {
+      "id": "prod_ru_afbac9e0_20260410182236",
+      "lang": "ru",
+      "content": "Ты поддержка JetUp?"
+    },
+    {
+      "id": "prod_ru_afbac9e0_20260410182248",
+      "lang": "ru",
+      "content": "Где найти поддержку JetUP?"
+    },
+    {
+      "id": "prod_ru_afbac9e0_20260410182338",
+      "lang": "ru",
+      "content": "Мне не возвращают долг, который учитывается в боте JetUp"
+    },
+    {
+      "id": "prod_ru_afbac9e0_20260410182405",
+      "lang": "ru",
+      "content": "Что делать с проблемой?"
+    },
+    {
+      "id": "prod_de_09a5f8a2_20260411012401",
+      "lang": "de",
+      "content": "расскажи мне про nfg markets"
+    },
+    {
+      "id": "prod_de_09a5f8a2_20260411012409",
+      "lang": "de",
+      "content": "tag markets"
+    },
+    {
+      "id": "prod_de_09a5f8a2_20260411012415",
+      "lang": "de",
+      "content": "Какие инструменты есть в JetUP?"
+    },
+    {
+      "id": "prod_en_bda701c7_20260411090002",
+      "lang": "en",
+      "content": "I verified in TAG Markets via Jetup link then deposited the 100usdt which arrived ... then I went to jet-up.ai and selected Dennis's Fast Start added my name and CU number Jacqueline Addison Rytz CU270183 but even after 20 mins mTAG markets account after re-login still only shows 100$ but it should be 4800$ or does it take longer? Maybe I must resubmit the Dennis Promo code or ?"
+    },
+    {
+      "id": "prod_en_bda701c7_20260411090051",
+      "lang": "en",
+      "content": "Yes please."
+    },
+    {
+      "id": "prod_en_bda701c7_20260411090821",
+      "lang": "en",
+      "content": "Maybe I just wait 48hrs. BUT at the end of submitting the Promo the Dennis Badge went green then instead of clicking the green Tick sign I clicked the X at top right of that Promo window ... maybe that cancelled the Promo and I should redo it but best is to ask TAG support first please, if the 100$ Dennis Promo went through and I must just wait or re- submit it from the jet-up.ai site.. Name Jacqueline Addison Rytz, CU270183, Country Switzerland."
+    },
+    {
+      "id": "prod_en_bda701c7_20260411090945",
+      "lang": "en",
+      "content": "My email in TAG and Jetup is: ja0882262@gmail.com"
+    },
+    {
+      "id": "prod_en_bda701c7_20260411091045",
+      "lang": "en",
+      "content": "No, great thank you Maria."
+    },
+    {
+      "id": "prod_en_bda701c7_20260411091147",
+      "lang": "en",
+      "content": "Enjoy your day too."
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130348",
+      "lang": "en",
+      "content": "What are the fees involved?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130400",
+      "lang": "en",
+      "content": "Can I lose money trading?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130415",
+      "lang": "en",
+      "content": "How to minimize trading risks?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130443",
+      "lang": "en",
+      "content": "What about NEO.fx"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130502",
+      "lang": "en",
+      "content": "What is JetUP's risk level?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130523",
+      "lang": "en",
+      "content": "Whst is the latest ROI on both strategies"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130552",
+      "lang": "en",
+      "content": "But last time I checked yesterday SONIC ROI was 85%"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130608",
+      "lang": "en",
+      "content": "What affects my ROI?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130621",
+      "lang": "en",
+      "content": "Can I learn about Sonic strategy?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130632",
+      "lang": "en",
+      "content": "How to join JetUP Academy?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130654",
+      "lang": "en",
+      "content": "How do I access the dashboard?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130710",
+      "lang": "en",
+      "content": "Courses available?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130745",
+      "lang": "en",
+      "content": "Can I withdraw on the SONIC strategy within the initial 30’days"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411130803",
+      "lang": "en",
+      "content": "Tell me about the bonus terms."
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131044",
+      "lang": "en",
+      "content": "With the initial deposit and the bonus - when can I withdraw the profits from the initial deposit and the additional bonus"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131155",
+      "lang": "en",
+      "content": "If I deposit more than $100, when can I withdraw that initial deposit"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131224",
+      "lang": "en",
+      "content": "Are there fees for withdrawals?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131307",
+      "lang": "en",
+      "content": "Withdrawal limits"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131320",
+      "lang": "en",
+      "content": "Can I change my account type?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131505",
+      "lang": "en",
+      "content": "After the initial deposit of $100 to get the x24 leverage, is it better to create another account and deposit much more so I can withdraw this higher deposit and profits before 30 days if I so wish"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131522",
+      "lang": "en",
+      "content": "What are the account rules?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131546",
+      "lang": "en",
+      "content": "Are there any current promotions?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131606",
+      "lang": "en",
+      "content": "Is there a time limit?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131640",
+      "lang": "en",
+      "content": "Deadline for registration to get the x24 leverage"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131700",
+      "lang": "en",
+      "content": "How to withdraw"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131712",
+      "lang": "en",
+      "content": "What are the withdrawal conditions?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411131757",
+      "lang": "en",
+      "content": "How long do withdrawals take?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411134620",
+      "lang": "en",
+      "content": "Can I speed up withdrawals?"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411134933",
+      "lang": "en",
+      "content": "What are JetUP's withdrawal policies?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140231",
+      "lang": "ru",
+      "content": "Приветик"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140304",
+      "lang": "ru",
+      "content": "Подскажи сколько я получаю от своего партнёра"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140332",
+      "lang": "ru",
+      "content": "Да нужны"
+    },
+    {
+      "id": "prod_en_fa96a056_20260411140422",
+      "lang": "en",
+      "content": "Can I withdraw anytime?"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140429",
+      "lang": "ru",
+      "content": "А как"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140450",
+      "lang": "ru",
+      "content": "а как узнать на каких я условиях"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140550",
+      "lang": "ru",
+      "content": "Подскажи почему когда я сжечь пиши смс я не вижу то что пишу"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140650",
+      "lang": "ru",
+      "content": "Скажи скоро выпустят приложение джет ап"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411140926",
+      "lang": "ru",
+      "content": "Почему уже как пару дней неофкс не зон торгует"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411141115",
+      "lang": "ru",
+      "content": "Подскажи если у меня сейчас 200 и икс 24 , у меня со временем могу забрать этих икс 24"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411141228",
+      "lang": "ru",
+      "content": "Плечо останется постоянно в стратегии или его смогут убрать организаторы"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411141308",
+      "lang": "ru",
+      "content": "Скажи что реально даёт это плечо"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411141423",
+      "lang": "ru",
+      "content": "Что оно мне даёт в копитрейди"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411141607",
+      "lang": "ru",
+      "content": "Какой будет доход с 300 с плески 24 в стратегии Соник и 200 в стратегии неофикс"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411141820",
+      "lang": "ru",
+      "content": "Сколько будут работать стратегии Соник и неофикс"
+    },
+    {
+      "id": "prod_ru_fa21e1ee_20260411141940",
+      "lang": "ru",
+      "content": "Ещё скажи сколько будет работать проект джетп"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412070029",
+      "lang": "en",
+      "content": "How do I register on IB Portal?"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412070306",
+      "lang": "en",
+      "content": "I don't have a cu number"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412070408",
+      "lang": "en",
+      "content": "Do I need to register for tag markets first ?"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412070529",
+      "lang": "en",
+      "content": "Can not see registration button"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412070540",
+      "lang": "en",
+      "content": "What if I can't find it?"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412071859",
+      "lang": "en",
+      "content": "Can I contact JetUP directly?"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412071919",
+      "lang": "en",
+      "content": "How do I contact JetUP?"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412071935",
+      "lang": "en",
+      "content": "What should I include in my request?"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412072009",
+      "lang": "en",
+      "content": "Like to register"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412072021",
+      "lang": "en",
+      "content": "Can you send that for me?"
+    },
+    {
+      "id": "prod_en_6d1f7a6f_20260412072122",
+      "lang": "en",
+      "content": "Where is the contact"
+    },
+    {
+      "id": "prod_en_d7cb5922_20260412101116",
+      "lang": "en",
+      "content": "Hallo Maria, wann bekomme ich die Dennis Promotion gutgeschrieben?"
+    },
+    {
+      "id": "prod_en_5c7a769d_20260412114332",
+      "lang": "en",
+      "content": "Hallo . Warum zeigt mir mein Handy ständig an das tagmarkets einen Server Update macht , ich aber auf dem pc alles machen kann ?"
+    },
+    {
+      "id": "prod_en_5c7a769d_20260412114508",
+      "lang": "en",
+      "content": "Es ist genauso das als es noch funktionierte ich den Bereich Copy x nicht laden konnte und der Bildschirm immer weiß geblieben ist"
+    },
+    {
+      "id": "prod_en_04da6c03_20260413074721",
+      "lang": "en",
+      "content": "hallo maria, ich habe jetzt an der dennis promotion teilgenommen, wann bekomme ich den bonus von 100 $ gutgeschrieben?"
+    },
+    {
+      "id": "prod_en_04da6c03_20260413074756",
+      "lang": "en",
+      "content": "nein, danke"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260413081600",
+      "lang": "de",
+      "content": "wie funktioniert das Recovery Plus Programm? Wie kommen die gewährten Boni auf mein Konto? Kannst du mir das erklären?"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260413081623",
+      "lang": "de",
+      "content": "Wie funktionieren die Boni?"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260413081722",
+      "lang": "de",
+      "content": "Ich handle regelmäßig und alle bedinhgungen werden erfüllt, aber einer der beiden gewährten Boni ist immer noch nicht auf meinem handelskonto!"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260413081905",
+      "lang": "de",
+      "content": "habe ich schon gemacht. der mitarbeiter hat zuerst falsch reagiert, weil er den Bonus offensichtlich nicht kannte. Auf mein drängen hat er es weitergeleitet und ich habe dann ein allgemeines Schreiben ohne wirkliche Lösung erhalten. Nach dem Motto: wir arbeiten daran und es dauert noch."
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260413081936",
+      "lang": "de",
+      "content": "Ich warte jetzt noch eine Woche und dann schaue ich weiter"
+    },
+    {
+      "id": "prod_de_e263e8f7_20260413163712",
+      "lang": "de",
+      "content": "Darwin rettungsschirm. Wer hilft mir dabei"
+    },
+    {
+      "id": "prod_en_3b83394d_20260413195624",
+      "lang": "en",
+      "content": "where is the login page please?"
+    },
+    {
+      "id": "prod_en_3b83394d_20260413200607",
+      "lang": "en",
+      "content": "Thank you."
+    },
+    {
+      "id": "prod_ru_62b735d6_20260413205434",
+      "lang": "ru",
+      "content": "пришли расписание всех вебинаров на эту неделю"
+    },
+    {
+      "id": "prod_de_696a3d51_20260414064802",
+      "lang": "de",
+      "content": "Wie Registriert man sich bei Jetup??"
+    },
+    {
+      "id": "prod_de_696a3d51_20260414064819",
+      "lang": "de",
+      "content": "Ja brauche Hilfe"
+    },
+    {
+      "id": "prod_de_696a3d51_20260414064835",
+      "lang": "de",
+      "content": "Wo muss ich klicken"
+    },
+    {
+      "id": "prod_de_696a3d51_20260414065141",
+      "lang": "de",
+      "content": "Ich sede den Button für registrieren nicht"
+    },
+    {
+      "id": "prod_de_696a3d51_20260414065152",
+      "lang": "de",
+      "content": "Ja habe ich"
+    },
+    {
+      "id": "prod_en_81e69759_20260414065615",
+      "lang": "en",
+      "content": "Can i connec to a live agnet"
+    },
+    {
+      "id": "prod_en_81e69759_20260414065639",
+      "lang": "en",
+      "content": "Can I contact a live agent?"
+    },
+    {
+      "id": "prod_en_e92e9f5d_20260414092651",
+      "lang": "en",
+      "content": "Hi Maria"
+    },
+    {
+      "id": "prod_en_e92e9f5d_20260414092706",
+      "lang": "en",
+      "content": "My Name is Veerasingam Velaventhan"
+    },
+    {
+      "id": "prod_en_e92e9f5d_20260414092732",
+      "lang": "en",
+      "content": "My Dennis promotion is not completed"
+    },
+    {
+      "id": "prod_en_e92e9f5d_20260414092828",
+      "lang": "en",
+      "content": "I deposited yesterday and also given my details in jet-up.ai yesterday"
+    },
+    {
+      "id": "prod_en_e92e9f5d_20260414092847",
+      "lang": "en",
+      "content": "yes pleae"
+    },
+    {
+      "id": "prod_en_81e69759_20260414130748",
+      "lang": "en",
+      "content": "Can i contact a livw agent"
+    },
+    {
+      "id": "prod_en_81e69759_20260414130911",
+      "lang": "en",
+      "content": "Hello"
+    },
+    {
+      "id": "prod_en_81e69759_20260414130925",
+      "lang": "en",
+      "content": "My name is Shahid"
+    },
+    {
+      "id": "prod_en_81e69759_20260414130944",
+      "lang": "en",
+      "content": "I want to talk to a live agent"
+    },
+    {
+      "id": "prod_en_81e69759_20260414131022",
+      "lang": "en",
+      "content": "This is related to Jetup.. about Fast Start bonus"
+    },
+    {
+      "id": "prod_en_81e69759_20260414131124",
+      "lang": "en",
+      "content": "Balance is showing but the account not yet activated with fast start bonus"
+    },
+    {
+      "id": "prod_en_81e69759_20260414133540",
+      "lang": "en",
+      "content": "fast start bonus"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260414160210",
+      "lang": "ru",
+      "content": "Можешь рассчитать доход за месяц если вложить 50$ в sonic и 50$ в neo.fx"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260414160246",
+      "lang": "ru",
+      "content": "Какие там проценты, что доходность получается такая?"
+    },
+    {
+      "id": "prod_ru_06a20fad_20260414160316",
+      "lang": "ru",
+      "content": "Это за какой период такие проценты?"
+    },
+    {
+      "id": "prod_en_007577d0_20260414160606",
+      "lang": "en",
+      "content": "I invested 11 April 2026 but see nothing in my wallet why?"
+    },
+    {
+      "id": "prod_en_1bc61e5c_20260414220812",
+      "lang": "en",
+      "content": "Hi, I am registered in jet up, but my country is showing the wrong country, I am in the U.K. - how do I edit that"
+    },
+    {
+      "id": "prod_en_1bc61e5c_20260414220918",
+      "lang": "en",
+      "content": "My email is John@thebaldocks.com - my country needs to be changed from South Korea to united kingdom"
+    },
+    {
+      "id": "prod_de_62cf29f3_20260415043239",
+      "lang": "de",
+      "content": "Wie richte ich Tag markets auf Meta trader 5 ein? Welchen Broker muss ich nehmen"
+    },
+    {
+      "id": "prod_de_62cf29f3_20260415043320",
+      "lang": "de",
+      "content": "Wo finde ich die Anweisungen? Vor allem welchen Broker wähle ich bei Meta trader 5 aus. Dort findet man Tag Markts nicht"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060650",
+      "lang": "ru",
+      "content": "Добрый день!"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060700",
+      "lang": "ru",
+      "content": "Анастасия"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060750",
+      "lang": "ru",
+      "content": "Мне на почту пришло оповещение, что"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060759",
+      "lang": "ru",
+      "content": "Your participation in the Dennis Fast Start Promo has been successfully verified and confirmed by our broker Tag Markets. As part of this promotion, you have received an additional 100 USD bonus, which is applied exclusively to the Sonic strategy within the 24x Amplify model."
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060811",
+      "lang": "ru",
+      "content": "Но сами деньги не пришли"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060848",
+      "lang": "ru",
+      "content": "После пополнения чего? Там есть 100 долларов"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060918",
+      "lang": "ru",
+      "content": "Нужно заново внести деньги в рамках этой акции?"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415060954",
+      "lang": "ru",
+      "content": "То есть на почту письмо могло прийти раньше сам сами деньги?"
+    },
+    {
+      "id": "prod_ru_483e667f_20260415061015",
+      "lang": "ru",
+      "content": "Какой раздел поддержки найти?"
+    },
+    {
+      "id": "prod_de_1c2983cb_20260415084922",
+      "lang": "de",
+      "content": "Wie ist der browserlink des JETUP Portals"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415090748",
+      "lang": "de",
+      "content": "Wohin geht das recovery plus"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415090805",
+      "lang": "de",
+      "content": "Wie funktioniert Recovery Plus?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415090824",
+      "lang": "de",
+      "content": "Wann wird es aktiviert?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415090902",
+      "lang": "de",
+      "content": "Wohin geht der Rettungsschirm?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415090922",
+      "lang": "de",
+      "content": "Kann ich ihn jederzeit nutzen?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415090955",
+      "lang": "de",
+      "content": "Kann ich ihn auch auszahlen"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091209",
+      "lang": "de",
+      "content": "Bleibt der Betrag liegen bis ich die migrated Balance erreicht habe?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091233",
+      "lang": "de",
+      "content": "Was ist die migrierte Balance?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091249",
+      "lang": "de",
+      "content": "Wie verwalte ich meine Balance?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091336",
+      "lang": "de",
+      "content": "Wenn ich die Balance erreicht habe kann ich dann auszahlen"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091353",
+      "lang": "de",
+      "content": "Wie funktioniert die Auszahlung?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091517",
+      "lang": "de",
+      "content": "Sehe ich die Balance auf Tag market wenn sie erreicht ist?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091535",
+      "lang": "de",
+      "content": "Wo sehe ich meine Balance?"
+    },
+    {
+      "id": "prod_de_9ce971a7_20260415091550",
+      "lang": "de",
+      "content": "Wo finde ich die Kontostände?"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092144",
+      "lang": "en",
+      "content": "How to register in IB Portal?"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092227",
+      "lang": "en",
+      "content": "cant find the registration button"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092253",
+      "lang": "en",
+      "content": "send me a link to the correct page"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092405",
+      "lang": "en",
+      "content": "i dont have a cu number"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092414",
+      "lang": "en",
+      "content": "How to register for JetUP?"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092444",
+      "lang": "en",
+      "content": "do i need to register on tag first"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092510",
+      "lang": "en",
+      "content": "there is no registration button"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092541",
+      "lang": "en",
+      "content": "take me to main page ans show registration button"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092632",
+      "lang": "en",
+      "content": "why does the website look like a mobile phone app on laptop"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092646",
+      "lang": "en",
+      "content": "Can you suggest a better browser?"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092706",
+      "lang": "en",
+      "content": "is this a scam"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092738",
+      "lang": "en",
+      "content": "can i talk to a real person"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092810",
+      "lang": "en",
+      "content": "stuart penn"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092821",
+      "lang": "en",
+      "content": "want to register"
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415092852",
+      "lang": "en",
+      "content": "how will they get back to me"
+    },
+    {
+      "id": "prod_de_9f989950_20260415135240",
+      "lang": "de",
+      "content": "Hallo Maria, warum kann ich mich bei jetup nicht anmelden. Ich gebe meine E-Mail ein, dann das Passwort und es erscheint login falled. Wenn ich das Passwort zurück setzte und ein neues eingebe passiert genau das selbe."
+    },
+    {
+      "id": "prod_en_cdb75bca_20260415174820",
+      "lang": "en",
+      "content": "is there a way to log in on laptop i have a registered account"
+    },
+    {
+      "id": "prod_en_98ac60ea_20260415182357",
+      "lang": "en",
+      "content": "Where do I find my referral link?"
+    },
+    {
+      "id": "prod_en_98ac60ea_20260415182413",
+      "lang": "en",
+      "content": "Where is my partner dashboard?"
+    },
+    {
+      "id": "prod_de_ccb5f1e3_20260415211546",
+      "lang": "de",
+      "content": "Wie funktioMiert der rettungsscHirm?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416074236",
+      "lang": "ru",
+      "content": "Плечо, на котором торгуют, зависит от депозита?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416074310",
+      "lang": "ru",
+      "content": "Да, расскажи подробнее, какое будет плечо при депозите 500, 1000 и 2000$"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416074340",
+      "lang": "ru",
+      "content": "Какие подробности ты тогда можешь рассказать?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075222",
+      "lang": "ru",
+      "content": "Где найти поддержку tag markets?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075231",
+      "lang": "ru",
+      "content": "Да, помоги"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075246",
+      "lang": "ru",
+      "content": "Не нашла"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075332",
+      "lang": "ru",
+      "content": "Если депозит будет 500$, сколько я могу получить прибыли в neo.fx и сколько в sonic"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075354",
+      "lang": "ru",
+      "content": "Что такое JetUP?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075419",
+      "lang": "ru",
+      "content": "То есть jet up представляет tag market?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075643",
+      "lang": "ru",
+      "content": "От двух до пяти процентов это в какой стратегии?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075712",
+      "lang": "ru",
+      "content": "А напиши про условия, где увеличивают твой депозит"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075731",
+      "lang": "ru",
+      "content": "Это для всех участников?"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075800",
+      "lang": "ru",
+      "content": "Плечо может варьироваться в зависимости от суммы депозита. Чем больше депозит, тем больше возможностей для использования более высокого плеча. - расскажи подробнее"
+    },
+    {
+      "id": "prod_ru_21744bd4_20260416075832",
+      "lang": "ru",
+      "content": "Да, это если я сама буду торговать или если подпишусь?"
+    },
+    {
+      "id": "prod_de_7fe01e5e_20260416100429",
+      "lang": "de",
+      "content": "wann und wie werden die vouchers zum recovery plus programm zugestellt?"
+    },
+    {
+      "id": "prod_en_abf59f62_20260416122547",
+      "lang": "en",
+      "content": "I am getting an error message when signing up William Klausman Williamklausenmarketing@gmail.com"
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154359",
+      "lang": "en",
+      "content": "Suelta, Sandra."
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154359",
+      "lang": "en",
+      "content": "Priviet, et toi Arthur?"
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154400",
+      "lang": "en",
+      "content": "Reden wir vielleicht lieber auf Deutsch. Ich kann Russisch und Deutsch, aber Deutsch ist besser. Ich habe eine Frage: Wie kann ich die Strategie, also was muss ich eingeben, wenn ich bei TAK Market die Strategie auswählen möchte."
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154400",
+      "lang": "en",
+      "content": "Da gibt's doch, ähm, Hashtag DW oder Hashtag, äh, Neo. Was muss ich da eingeben?"
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154400",
+      "lang": "en",
+      "content": "Genau, also die Neo, aber ich möchte ja diesen 24x-Hebel nutzen, und dann muss ich ja da im Prinzip ja, ähm, DW oder Dark Market oder was gebe ich da ein, oder JETUP, was muss ich da eingeben?"
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154400",
+      "lang": "en",
+      "content": "Ähm, es gibt— also das heißt, ich gebe ein Hashtag Neo und dann 4-mal die 0."
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154400",
+      "lang": "en",
+      "content": "Nein, danke."
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154400",
+      "lang": "en",
+      "content": "Alles klar."
+    },
+    {
+      "id": "prod_en_2d8927bc_20260416154400",
+      "lang": "en",
+      "content": "Danke dir, ciao!"
+    },
+    {
+      "id": "prod_en_c66d10af_20260417023833",
+      "lang": "en",
+      "content": "Where do I find the signup link on the page that my sponsor sent me"
+    },
+    {
+      "id": "prod_en_c66d10af_20260417023907",
+      "lang": "en",
+      "content": "What will it say at the bottom of the page. Where I’m looking for"
+    },
+    {
+      "id": "prod_de_5b90dc9e_20260417072359",
+      "lang": "de",
+      "content": "Можно ли подключить к jet up холодный кошелек, рассматривается такая возможность?"
+    },
+    {
+      "id": "prod_de_676176aa_20260417083917",
+      "lang": "de",
+      "content": "Wie kann ich Sonic auf Metatrader 5 einrichten"
+    },
+    {
+      "id": "prod_de_676176aa_20260417083953",
+      "lang": "de",
+      "content": "How to connect my account?"
+    },
+    {
+      "id": "prod_de_676176aa_20260417084008",
+      "lang": "de",
+      "content": "Can you explain MetaTrader 5?"
+    },
+    {
+      "id": "prod_en_83cd429f_20260417110148",
+      "lang": "en",
+      "content": "Ich möchte Infos zum Rettungsschirm"
+    },
+    {
+      "id": "prod_en_83cd429f_20260417110208",
+      "lang": "en",
+      "content": "Meine Upline antwortet mir nicht."
+    },
+    {
+      "id": "prod_en_83cd429f_20260417110316",
+      "lang": "en",
+      "content": "Ich bin im IB Portal registriert, habe aber noch nichts aus dem Retturnsschirm bekommen - alle Werte unter Recovery Plus sind auf null."
+    },
+    {
+      "id": "prod_en_83cd429f_20260417110347",
+      "lang": "en",
+      "content": "hgilles@protonmail.com Ich bin im IB Portal registriert, habe aber noch nichts aus dem Retturnsschirm bekommen - alle Werte unter Recovery Plus sind auf null."
+    },
+    {
+      "id": "prod_en_f82ab27f_20260417122131",
+      "lang": "en",
+      "content": "ich möchte meine AI befüllen. Kannst du mir alle wichtigen Daten zuschicken von dir, damit ich das auf meine KI übertrage um allen alle Fragen zu beantworten?"
+    },
+    {
+      "id": "prod_en_98ac60ea_20260417155749",
+      "lang": "en",
+      "content": "I signed up with Jet-Up and funded my account in Tag Markets but have not yet received my $100 bonus from Dennis. How can I get my $100 bonus?"
+    },
+    {
+      "id": "prod_en_98ac60ea_20260417155936",
+      "lang": "en",
+      "content": "Ivan Willert - CU272419 - ivan@wilds3.com - I signed up with Jet-Up on April 14th and funded my account in Tag Markets but have not yet received my $100 bonus from Dennis. Please help."
+    },
+    {
+      "id": "prod_en_98ac60ea_20260417160002",
+      "lang": "en",
+      "content": "I'm good. Thank you"
+    },
+    {
+      "id": "prod_en_f99922e1_20260417171708",
+      "lang": "en",
+      "content": "How do I connect with support for two of my team."
+    },
+    {
+      "id": "prod_en_f99922e1_20260417172010",
+      "lang": "en",
+      "content": "It is in regard to the Dennis promotion. I've helped two new members on board - they have the Dennis promotion approved - but then I didn't realise this was applied manually, so went and advised them to invest - thinking $100 would be added and then x24. Obviously, once Dennis has gotten around to applying the promotion, he can see there's no balance because it's already been invested, and so the $100 is still waiting to be claimed. Can this be retrospectively added, as it was a genuine mistake?"
+    },
+    {
+      "id": "prod_en_f99922e1_20260417172047",
+      "lang": "en",
+      "content": "No, that's fine."
+    },
+    {
+      "id": "prod_de_b1ce553c_20260417194357",
+      "lang": "de",
+      "content": "Darwin Rettungsschirm"
+    },
+    {
+      "id": "prod_en_45a882cf_20260418070018",
+      "lang": "en",
+      "content": "Ja, tack gärna!"
+    },
+    {
+      "id": "prod_en_45a882cf_20260418070326",
+      "lang": "en",
+      "content": "ulrikakarna@gmail.com. Mina insatta pengar 300usd sitter fortfarande kvar i min wallet efter sju dagar. Ingenting händer.Customer Number: CU269635"
+    },
+    {
+      "id": "prod_en_adb45cc2_20260418072815",
+      "lang": "en",
+      "content": "Dennis promo"
+    },
+    {
+      "id": "prod_en_adb45cc2_20260418072843",
+      "lang": "en",
+      "content": "How do I use the promo?"
+    },
+    {
+      "id": "prod_en_adb45cc2_20260418072907",
+      "lang": "en",
+      "content": "9M promo"
+    },
+    {
+      "id": "prod_en_adb45cc2_20260418072917",
+      "lang": "en",
+      "content": "What is the JetUP ecosystem?"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113016",
+      "lang": "de",
+      "content": "Wenn ich Geld investiere, wie viel Gewinn bleibt mir übrig?"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113107",
+      "lang": "de",
+      "content": "Kann ich auch ohne Partnerprogramm Invest"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113201",
+      "lang": "de",
+      "content": "Wenn ich ohne Partnerprogramm investiere, bleiben mir dann auch nur 70% vom Gewinn übrig?"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113403",
+      "lang": "de",
+      "content": "Werden die Strategien mit Künstlicher Intelligenz umgesetzt?"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113426",
+      "lang": "de",
+      "content": "Wie funktioniert die Sonic-Strategie?"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113439",
+      "lang": "de",
+      "content": "Was sind die Risiken der Sonic-Strategie?"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113515",
+      "lang": "de",
+      "content": "Wo kann ich die"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113538",
+      "lang": "de",
+      "content": "Wo kann ich mehr über die echten Trader erfahren?"
+    },
+    {
+      "id": "prod_de_f5224981_20260418113603",
+      "lang": "de",
+      "content": "Wie finde ich Trader?"
+    },
+    {
+      "id": "prod_en_ecc6e57c_20260418122812",
+      "lang": "en",
+      "content": "Marina, Privet, Kagzawa."
+    },
+    {
+      "id": "prod_en_ecc6e57c_20260418122812",
+      "lang": "en",
+      "content": "La carne es mierda."
+    },
+    {
+      "id": "prod_en_48c7b79c_20260418123013",
+      "lang": "en",
+      "content": "Hello, my name is Nadir."
+    },
+    {
+      "id": "prod_en_48c7b79c_20260418123013",
+      "lang": "en",
+      "content": "Mm-hmm."
+    },
+    {
+      "id": "prod_en_48c7b79c_20260418123013",
+      "lang": "en",
+      "content": "Can you introduce me, uh, can you explain me about the tap?"
+    },
+    {
+      "id": "prod_en_48c7b79c_20260418123013",
+      "lang": "en",
+      "content": "Yeah."
+    },
+    {
+      "id": "prod_en_48c7b79c_20260418123013",
+      "lang": "en",
+      "content": "Yes, yes, yes. Can you, uh, talk to me about tag markets?"
+    },
+    {
+      "id": "prod_en_48c7b79c_20260418123013",
+      "lang": "en",
+      "content": "Is that— well, uh."
+    },
+    {
+      "id": "prod_en_48c7b79c_20260418123013",
+      "lang": "en",
+      "content": "So good. Thank you. Thank—"
+    },
+    {
+      "id": "prod_de_6b2642a9_20260418210029",
+      "lang": "de",
+      "content": "Hallo"
+    },
+    {
+      "id": "prod_de_6b2642a9_20260418210401",
+      "lang": "de",
+      "content": "Ich habe so eben die Dennis Promotion beantragt. 100 Dollar Depoist sind hinterlegt. Meine CU175317 ist folgende. Meine Email ist, michaellano85@gmail.com. Ich bitte um eine SONIC Strategie eingerichtet bekommen. LG Michael Lano"
+    },
+    {
+      "id": "prod_en_1dbdf298_20260419074739",
+      "lang": "en",
+      "content": "khanarfaat97@gmail.com"
+    },
+    {
+      "id": "prod_en_1dbdf298_20260419074857",
+      "lang": "en",
+      "content": "i am not able to login tag market i just already registered, but unable to login Tag market"
+    },
+    {
+      "id": "prod_en_1dbdf298_20260419075048",
+      "lang": "en",
+      "content": "yes pls"
+    },
+    {
+      "id": "prod_en_1dbdf298_20260419075155",
+      "lang": "en",
+      "content": "dont have CU no because just registered on tag and verified the mail and then try to login Tag not open"
+    },
+    {
+      "id": "prod_en_4777557b_20260419105715",
+      "lang": "en",
+      "content": "Hello, I hope you are fine. Could you please help me? I have an account with DarWin and I wiuld"
+    },
+    {
+      "id": "prod_en_4777557b_20260419105746",
+      "lang": "en",
+      "content": "I would like to get my assets from Darwin and need to know what steps to take"
+    },
+    {
+      "id": "prod_en_4777557b_20260419105756",
+      "lang": "en",
+      "content": "What is JetUP's main benefit?"
+    },
+    {
+      "id": "prod_en_4777557b_20260419105816",
+      "lang": "en",
+      "content": "How does JetUP verify providers?"
+    },
+    {
+      "id": "prod_en_4777557b_20260419105835",
+      "lang": "en",
+      "content": "What about DarWin?"
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Michael—"
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Ja, beides."
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Ich habe mich gestern für das Dennis Promotion Programm interessiert und dieses bestellt und habe $100 hinterlegt. Jetzt möchte ich aber den, ähm, die Sonic-Strategie eingerichtet bekommen."
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Ist das möglich?"
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Nein, ich habe bereits eine Verifizierung bei TagMarket."
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Ich habe den NeoTrader bereits installiert, jedoch möchte ich die Promotion plus die— plus den Bonus auf meinen SonicTrader installiert bekommen. Das mache ich selber oder macht das jemand anderes für mich?"
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Ja, erzähl mal."
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Bitte?"
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Nein, das mache ich selber."
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Danke."
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Okay."
+    },
+    {
+      "id": "prod_de_dedbf262_20260419113944",
+      "lang": "de",
+      "content": "Bye."
+    },
+    {
+      "id": "prod_de_6b2642a9_20260419113952",
+      "lang": "de",
+      "content": "Wie aktiviere ich die Strategie?"
+    },
+    {
+      "id": "prod_ru_7dc9b558_20260419114729",
+      "lang": "ru",
+      "content": "Мария, привет, меня зовут Надир, о знакомстве."
+    },
+    {
+      "id": "prod_ru_7dc9b558_20260419114730",
+      "lang": "ru",
+      "content": "Расскажи мне о брокере Так. Маркетс."
+    },
+    {
+      "id": "prod_ru_7dc9b558_20260419114730",
+      "lang": "ru",
+      "content": "Куда? На bachmap."
+    },
+    {
+      "id": "prod_en_e0802a9a_20260419114924",
+      "lang": "en",
+      "content": "Hello, how are you, Maria?"
+    },
+    {
+      "id": "prod_en_e0802a9a_20260419114924",
+      "lang": "en",
+      "content": "Okay."
+    },
+    {
+      "id": "prod_en_e0802a9a_20260419114924",
+      "lang": "en",
+      "content": "Um,"
+    },
+    {
+      "id": "prod_de_ea245d1f_20260419140845",
+      "lang": "de",
+      "content": "Ich finde meine Partnerin mit folgender Tag-Markets ID (CU156871) nicht in meiner Jet-Up Downline. Sie kann sich selber auch nicht bei Jet-Up einloggen. was können wir tun?"
+    },
+    {
+      "id": "prod_de_ea245d1f_20260419141101",
+      "lang": "de",
+      "content": "meine Email: falkkryp@gmail.com und meine CU150354"
+    },
+    {
+      "id": "prod_de_85409aeb_20260419175146",
+      "lang": "de",
+      "content": "Hallo, habe mich gerade über jet-up bei TagMarkets registriert. Wie bekommt man die 100 $ und die Hebel Verdopplung von 24 fach...Danke"
+    },
+    {
+      "id": "prod_en_b081dec5_20260419193237",
+      "lang": "en",
+      "content": "Hi Maria, I have a person who I am trying to sign up but the register button for TAG Markets is not showing - do you have any suggestions? Thanks"
+    },
+    {
+      "id": "prod_en_b081dec5_20260419193312",
+      "lang": "en",
+      "content": "No thank you that is most helpful."
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081013",
+      "lang": "ru",
+      "content": "Dobryj den"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081031",
+      "lang": "ru",
+      "content": "Sto oznociajet chare 1?"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081152",
+      "lang": "ru",
+      "content": "Chare 1"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081229",
+      "lang": "ru",
+      "content": "Moi depozit 2500 sto iz etovo ja paluciaju?"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081330",
+      "lang": "ru",
+      "content": "Tam pisut sto eta akcyja, hociu poniat sto ja iz etovo paluci"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081431",
+      "lang": "ru",
+      "content": "65% godovyh?"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081547",
+      "lang": "ru",
+      "content": "Tak gde akcyja i kakaja raznica jesli ja vnisu 500 a ne 2500?"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081646",
+      "lang": "ru",
+      "content": "101 uze vnios no bonusa nipalucil"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081727",
+      "lang": "ru",
+      "content": "Da sutki iscio niprosli"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081816",
+      "lang": "ru",
+      "content": "Tiper nuzen otvet po akcyji 2500 sto iz etovo paluciu?"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420081917",
+      "lang": "ru",
+      "content": "Esli mense vnisu to etoj strategi nipaluciu?"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420082016",
+      "lang": "ru",
+      "content": "Tak vapros i sostijit kakaja strategija vazmozna za 500 dolarof i kakaja po akcyje za 2500 dolarof"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420082133",
+      "lang": "ru",
+      "content": "Tak skolko vremeni nuzno stoby udvojet blozynuju 2500 sumu"
+    },
+    {
+      "id": "prod_ru_04c6c1ed_20260420082253",
+      "lang": "ru",
+      "content": "Kakije riski"
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141226",
+      "lang": "en",
+      "content": "Good day, Maria. Hope you’re doing well."
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141313",
+      "lang": "en",
+      "content": "I’m doing fine thanks. When are you enrolled I copied and paste it the deposit amount for USDC. And when it got to the wallet, it was $.39 less than 150 that I was able to transfer to copy trading"
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141346",
+      "lang": "en",
+      "content": "I received the next morning an email saying that I did qualify for the Dennos promo"
+    },
+    {
+      "id": "prod_de_d249c4e5_20260420141346",
+      "lang": "de",
+      "content": "Kannst du mir auch was zum thema Darwin rettungsschirm sagen?"
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141357",
+      "lang": "en",
+      "content": "But I have not received it in my wallet"
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141427",
+      "lang": "en",
+      "content": "If you wouldn’t mind"
+    },
+    {
+      "id": "prod_de_d249c4e5_20260420141434",
+      "lang": "de",
+      "content": "Wo kann ich mich anmeldn"
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141448",
+      "lang": "en",
+      "content": "Mikey2661000@gmail.com"
+    },
+    {
+      "id": "prod_de_d249c4e5_20260420141515",
+      "lang": "de",
+      "content": "Ich bin schon lange bei jetup, aber eben noch nicht hier registriert, benötige ich eine neue Registrierung"
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141545",
+      "lang": "en",
+      "content": "I do have one question actually. I made a second deposit to my tag wallet for $100. Must there always be a $100 balance in your tag wallet for the duration of the promo?"
+    },
+    {
+      "id": "prod_en_c66d10af_20260420141613",
+      "lang": "en",
+      "content": "You did awesome thank you. That’s all."
+    },
+    {
+      "id": "prod_de_d249c4e5_20260420141644",
+      "lang": "de",
+      "content": "Bei mir ist keiner"
+    },
+    {
+      "id": "prod_en_8fa6e7f0_20260420153820",
+      "lang": "en",
+      "content": "Hello, I entered my info into Dennis promo but did not I t get a email confirmation"
+    },
+    {
+      "id": "prod_en_8fa6e7f0_20260420153933",
+      "lang": "en",
+      "content": "What should I ask tag support since I entered the information here?"
+    },
+    {
+      "id": "prod_en_8fa6e7f0_20260420153946",
+      "lang": "en",
+      "content": "Ok ty"
+    },
+    {
+      "id": "prod_en_f99922e1_20260420180935",
+      "lang": "en",
+      "content": "Question - I have two team members who have joined frontline to me. One of them should be actually under the other. Is it possible to make the change in the team structure?"
+    },
+    {
+      "id": "prod_en_f99922e1_20260420181002",
+      "lang": "en",
+      "content": "Surely not - it's a Jet UP issue."
+    },
+    {
+      "id": "prod_en_5d85560c_20260420185414",
+      "lang": "en",
+      "content": "Ib कमिशन 10 लेवल में कैसे बाटा जाता है"
+    },
+    {
+      "id": "prod_en_5d85560c_20260420190029",
+      "lang": "en",
+      "content": "Hoy"
+    },
+    {
+      "id": "prod_ru_db5030f2_20260421012053",
+      "lang": "ru",
+      "content": "Как работает Деннис промо ?"
+    },
+    {
+      "id": "prod_ru_db5030f2_20260421012109",
+      "lang": "ru",
+      "content": "Где расписание вебинаров?"
+    },
+    {
+      "id": "prod_ru_db5030f2_20260421012506",
+      "lang": "ru",
+      "content": "Как подключиться к copy x"
+    },
+    {
+      "id": "prod_ru_db5030f2_20260421012517",
+      "lang": "ru",
+      "content": "Как выбрать стратегию в Copy-X?"
+    },
+    {
+      "id": "prod_ru_db5030f2_20260421013239",
+      "lang": "ru",
+      "content": "Как работает rettungsschirm?"
+    },
+    {
+      "id": "prod_ru_db5030f2_20260421013254",
+      "lang": "ru",
+      "content": "А Дарвин?"
+    },
+    {
+      "id": "prod_ru_db5030f2_20260421013901",
+      "lang": "ru",
+      "content": "Как подключить copy x ?"
+    },
+    {
+      "id": "prod_de_69550569_20260421110600",
+      "lang": "de",
+      "content": "Hi. TAG Markets schliesst auf der Homepage Kunden aus der EU aus. Wie verhält sich das aktuell mit neuen Kunden für JetUp?"
+    },
+    {
+      "id": "prod_de_69550569_20260421110626",
+      "lang": "de",
+      "content": "Gibt es Alternativen zu TAG Markets?"
+    },
+    {
+      "id": "prod_de_69550569_20260421110704",
+      "lang": "de",
+      "content": "Warum ist der JetUp Bot deaktiviert worden?"
+    },
+    {
+      "id": "prod_de_69550569_20260421110754",
+      "lang": "de",
+      "content": "Wo kann ich nachfragen? In der Telegram Gruppe kann man keine Fragen stellen"
+    },
+    {
+      "id": "prod_de_69550569_20260421110812",
+      "lang": "de",
+      "content": "Gibt es eine Telefonnummer für JetUP?"
+    },
+    {
+      "id": "prod_de_69550569_20260421110842",
+      "lang": "de",
+      "content": "Nein. Danke"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260421183341",
+      "lang": "en",
+      "content": "Hallo, ich hatte es jetzt schon zweimal, das meine Reinvestitionen bei Sonic nicht durchgeführt wurden und dann auf Null gestellt wurden. Was ist zu tun?"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260421183440",
+      "lang": "en",
+      "content": "Meine Mail ist bueromaus@t-online.de"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260421183639",
+      "lang": "en",
+      "content": "Cu176380"
+    },
+    {
+      "id": "prod_en_ab651ebd_20260421183655",
+      "lang": "en",
+      "content": "Wie lange dauert die Antwort?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421215814",
+      "lang": "de",
+      "content": "Ich habe die Bestätigungs-Mail bekommen, aber sehe keinen Bonus. Wo ist er?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421215830",
+      "lang": "de",
+      "content": "Warum sehe ich das nicht im IB Portal?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421215851",
+      "lang": "de",
+      "content": "Ich habe tausend Dollar auf meiner Balance. Wird das alles automatisch in die Dennis Promo übernommen?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421215906",
+      "lang": "de",
+      "content": "Kann ich das irgendwie zusammenlegen?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421215945",
+      "lang": "de",
+      "content": "Ich meine für die Promo"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220006",
+      "lang": "de",
+      "content": "Was ist Recovery Plus?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220025",
+      "lang": "de",
+      "content": "Bedeutet das, dass meine Verluste abgesichert sind?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220048",
+      "lang": "de",
+      "content": "Wo mache ich Copy Trading? Im IB Portal?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220105",
+      "lang": "de",
+      "content": "Und wo sehe ich dann meine Gewinne?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220128",
+      "lang": "de",
+      "content": "Ich sehe im IB Portal kein Geld zum Traden"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220150",
+      "lang": "de",
+      "content": "Heißt das, dass mein Geld weg ist?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220203",
+      "lang": "de",
+      "content": "Ich habe mich registriert, aber noch nichts eingezahlt. Kommt der Bonus trotzdem?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220220",
+      "lang": "de",
+      "content": "Wann genau wird er aktiviert?"
+    },
+    {
+      "id": "prod_de_bcd9e82b_20260421220240",
+      "lang": "de",
+      "content": "wie kann mich zur NEOFX verbinden?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220243",
+      "lang": "de",
+      "content": "Bei Recovery steht alles auf null. Was bedeutet das?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220253",
+      "lang": "de",
+      "content": "Ist das ein Problem oder normal?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220305",
+      "lang": "de",
+      "content": "Ich habe mich registriert, sehe nichts im IB Portal und keinen Bonus. Was mache ich falsch?"
+    },
+    {
+      "id": "prod_de_bcd9e82b_20260421220305",
+      "lang": "de",
+      "content": "muss ich da community token eingeben?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220325",
+      "lang": "de",
+      "content": "Wo genau muss ich jetzt reinschauen?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220349",
+      "lang": "de",
+      "content": "Kann ich Recovery Plus aktivieren, um mein Risiko zu reduzieren?"
+    },
+    {
+      "id": "prod_de_870e4db4_20260421220411",
+      "lang": "de",
+      "content": "Wie funktioniert das genau?"
+    },
+    {
+      "id": "prod_de_bcd9e82b_20260421220434",
+      "lang": "de",
+      "content": "Was ist der Community Token?"
+    },
+    {
+      "id": "prod_de_bcd9e82b_20260421220442",
+      "lang": "de",
+      "content": "Wie hoch ist das Risiko pro Trade?"
+    }
+  ]
+}

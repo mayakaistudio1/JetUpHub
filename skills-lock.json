@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-tools": {
+      "source": "inf-sh/skills",
+      "sourceType": "github",
+      "computedHash": "24dda6c2d9d2e3c3fe49359fc84f0e0496a7425bd1cf0d6877f5c4125be2d9ca"
+    },
+    "ai-video-generation": {
+      "source": "skill-zero/s",
+      "sourceType": "github",
+      "computedHash": "2dfd8b3c64d1624984dd9f39fb6968b5eb516d3eba089ab72fb2885338c0e944"
+    },
+    "brainstorming": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "computedHash": "13b0b2aa645c340d54fb7e91d7ff5d1417a4d10c9d4c381b4b0fd629a6398155"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "computedHash": "9e1c8b3103f92fa8092568a44fe64858de7c5c9dc65ce4bea8f168080e889cfd"
+    },
+    "liveavatar-debug": {
+      "source": "heygen-com/liveavatar-agent-skills",
+      "sourceType": "github",
+      "computedHash": "c4dd84a5a1f28cafe2e28eb65993ae45f238cf332e4a78a8974bf4e8ac89db25"
+    },
+    "liveavatar-feedback": {
+      "source": "heygen-com/liveavatar-agent-skills",
+      "sourceType": "github",
+      "computedHash": "5cc848113860387ba62e6a1663c2ede126e9a80c550e1a883d97ebfb257522ab"
+    },
+    "liveavatar-integrate": {
+      "source": "heygen-com/liveavatar-agent-skills",
+      "sourceType": "github",
+      "computedHash": "e805789b6436905ae7bd6ecc3b542d60dd7482630755b62eaa6d9b1972a726a4"
+    }
+  }
+}

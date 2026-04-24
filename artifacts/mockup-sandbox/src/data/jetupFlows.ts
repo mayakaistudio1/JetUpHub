@@ -1,0 +1,170 @@
+import type { Flow } from "@/types/jetup";
+
+export const FLOWS: Flow[] = [
+  {
+    key: "product",
+    label: "Product",
+    icon: "📈",
+    tagline: "Show me the trading product",
+    color: "#3B82F6",
+    scenes: [
+      {
+        id: "product-1",
+        headline: "Your money works. Even when you sleep.",
+        body: "JetUP connects you to Copy-X — a verified copy-trading system built on the Sonic strategy. 80%+ profitable months on Myfxbook. Regulated. Transparent.",
+        visual: "chart",
+      },
+      {
+        id: "product-2",
+        headline: "One broker. Zero hidden costs.",
+        body: "TAG Markets is our exclusive broker partner — spreads from 0.0 pips, lightning-fast execution, and LFSA regulation. Your capital is safe, and every trade is traceable.",
+        visual: "broker",
+      },
+      {
+        id: "product-3",
+        headline: "Start with $100. Scale without limits.",
+        body: "The Dennis Fast Start Promo gives you a 100% deposit bonus — turning $100 into $200 working capital on MT5. Risk is defined. Logic is clear.",
+        visual: "promo",
+      },
+      {
+        id: "product-4",
+        headline: "Real signals. Real analysts.",
+        body: "Receive precise trade setups from our analysts directly to your phone. Learn by watching professionals operate in live markets — every entry and exit explained.",
+        visual: "signals",
+      },
+      {
+        id: "product-5",
+        headline: "Ready to put your capital to work?",
+        body: "You've seen the system. Regulated broker. Proven strategy. Real transparency. The next step is yours.",
+        ctaFinal: true,
+        cta: "Open My Account",
+      },
+    ],
+  },
+  {
+    key: "partner",
+    label: "Partner",
+    icon: "🤝",
+    tagline: "I want to build a business",
+    color: "#10B981",
+    scenes: [
+      {
+        id: "partner-1",
+        headline: "This is not recruitment. This is infrastructure.",
+        body: "JetUP's partner program is built on a multi-level commission structure — you earn on trading volume, subscriptions, and profits. Not on empty promises.",
+        visual: "network",
+      },
+      {
+        id: "partner-2",
+        headline: "Earn on every trade your team makes.",
+        body: "Lot Commissions pay you every time someone in your structure trades. Profit Share adds a percentage of monthly profits. Residual income isn't a dream — it's a formula.",
+        visual: "commissions",
+      },
+      {
+        id: "partner-3",
+        headline: "10 levels deep. No cap on the width.",
+        body: "The Infinity Bonus goes deeper than you go. Build three active branches and the system pays you from the entire depth of your structure — not just your direct referrals.",
+        visual: "depth",
+      },
+      {
+        id: "partner-4",
+        headline: "Up to 80% profit share. Real numbers.",
+        body: "Top partners generate $1M+ in volume. Incentives include travel, bonuses, and Global Pool payouts — a share of the company's total revenue.",
+        visual: "leaderboard",
+      },
+      {
+        id: "partner-5",
+        headline: "Your AI clone works the presentations. You collect the results.",
+        body: "Maria — our AI video assistant — handles onboarding, FAQs, and partner invitations in German, Russian, and English. 24/7. Without you being there.",
+        visual: "ai-clone",
+      },
+      {
+        id: "partner-6",
+        headline: "Build once. Earn indefinitely.",
+        body: "You've seen what's possible. The system is real. The income is residual. The infrastructure is already built.",
+        ctaFinal: true,
+        cta: "Become a Partner",
+      },
+    ],
+  },
+  {
+    key: "ai",
+    label: "AI",
+    icon: "🤖",
+    tagline: "Tell me about the AI layer",
+    color: "#A855F7",
+    scenes: [
+      {
+        id: "ai-1",
+        headline: "Meet Maria. She never stops working.",
+        body: "Maria is JetUP's AI video concierge. She handles partner onboarding, live presentations, FAQs, and follow-ups — in three languages — around the clock.",
+        visual: "maria",
+      },
+      {
+        id: "ai-2",
+        headline: "Forget manual explanations. Forever.",
+        body: "Every new partner who joins your structure is greeted, guided, and educated by Maria before you even open your phone. The system scales faster than any human can.",
+        visual: "automation",
+      },
+      {
+        id: "ai-3",
+        headline: "Personalized invitations. At scale.",
+        body: "Maria generates custom video invites for each prospect — referencing their profile, their goals, their language. Conversion goes up. Your effort stays flat.",
+        visual: "personalized",
+      },
+      {
+        id: "ai-4",
+        headline: "The AI layer is your unfair advantage.",
+        body: "While others are copy-pasting messages, your AI is running video calls. This is the difference between building a business and building a machine.",
+        ctaFinal: true,
+        cta: "Activate AI for My Business",
+      },
+    ],
+  },
+  {
+    key: "system",
+    label: "Full System",
+    icon: "⚡",
+    tagline: "Show me the entire picture",
+    color: "#F59E0B",
+    scenes: [
+      {
+        id: "system-1",
+        headline: "This is not just another opportunity. This is a system.",
+        body: "JetUP combines three layers: a regulated trading product, a multi-level partner business, and an AI infrastructure layer. Each amplifies the others.",
+        visual: "overview",
+      },
+      {
+        id: "system-2",
+        headline: "Layer 1: The Product.",
+        body: "Copy-X on TAG Markets. Sonic strategy. 80%+ profitable months. Regulated broker. Myfxbook transparency. $100 entry with 100% bonus. Real capital, real trades, real results.",
+        visual: "layer-product",
+      },
+      {
+        id: "system-3",
+        headline: "Layer 2: The Business.",
+        body: "Multi-level commissions — Lot Commission, Profit Share, Infinity Bonus, Global Pool. 10 levels deep. Up to 80% profit share. Incentive travel. A structure that earns while you sleep.",
+        visual: "layer-business",
+      },
+      {
+        id: "system-4",
+        headline: "Layer 3: The AI.",
+        body: "Maria runs your presentations, onboards your partners, and sends personalized invitations — in German, Russian, and English. The AI layer turns one person into a team.",
+        visual: "layer-ai",
+      },
+      {
+        id: "system-5",
+        headline: "The JetUP Academy.",
+        body: "40+ video modules: Trading Basics, Broker Setup, Copy-Trading, Network Marketing. Every skill you need, structured and searchable. For you and your entire team.",
+        visual: "academy",
+      },
+      {
+        id: "system-6",
+        headline: "You've seen the full picture.",
+        body: "Three layers. One ecosystem. The infrastructure is built. The strategy is proven. The only variable is when you decide to start.",
+        ctaFinal: true,
+        cta: "Enter the Full System",
+      },
+    ],
+  },
+];

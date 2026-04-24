@@ -1,0 +1,162 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  --color-background: var(--tg-theme-bg-color);
+  --color-foreground: var(--tg-theme-text-color);
+  --color-card: var(--tg-theme-secondary-bg-color);
+  --color-card-foreground: var(--tg-theme-text-color);
+  --color-primary: #7C3AED;
+  --color-primary-foreground: #FFFFFF;
+  --color-muted: var(--tg-theme-hint-color);
+  --color-muted-foreground: var(--tg-theme-hint-color);
+  --color-accent: #A855F7;
+  --color-accent-foreground: #FFFFFF;
+  --color-border: var(--tg-theme-hint-color);
+  
+  --font-sans: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  
+  --radius-xl: 16px;
+  --radius-2xl: 20px;
+}
+
+:root {
+  --tg-theme-bg-color: #F8F8FA;
+  --tg-theme-text-color: #1F2937;
+  --tg-theme-hint-color: #4B5563;
+  --tg-theme-link-color: #7C3AED;
+  --tg-theme-button-color: #7C3AED;
+  --tg-theme-button-text-color: #FFFFFF;
+  --tg-theme-secondary-bg-color: #F0F0F0;
+}
+
+.dark {
+  --tg-theme-bg-color: #0F0A1A;
+  --tg-theme-text-color: #F1F5F9;
+  --tg-theme-hint-color: #94A3B8;
+  --tg-theme-link-color: #A855F7;
+  --tg-theme-button-color: #7C3AED;
+  --tg-theme-button-text-color: #FFFFFF;
+  --tg-theme-secondary-bg-color: #1A1028;
+}
+
+body {
+  @apply font-sans antialiased bg-background text-foreground;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-overflow-scrolling: touch;
+  line-height: 1.6;
+}
+
+[data-testid="registration-screen"] input,
+[data-testid="registration-screen"] textarea,
+[data-testid="registration-screen"] select,
+.partner-app-shell input,
+.partner-app-shell textarea {
+  -webkit-user-select: text !important;
+  user-select: text !important;
+  touch-action: manipulation;
+  -webkit-appearance: none;
+  appearance: none;
+  opacity: 1 !important;
+  font-size: 16px !important;
+}
+
+@import "./pdh-v3.css";
+
+#root {
+  @apply min-h-screen flex flex-col;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.glass-panel {
+  @apply bg-card/80 backdrop-blur-md border border-white/20 shadow-sm;
+}
+
+.card-press {
+  @apply transition-transform active:scale-98 active:opacity-80;
+}
+
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.card-elevated {
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06);
+}
+
+.card-glow {
+  box-shadow: 0 2px 20px rgba(124, 58, 237, 0.12);
+}
+
+.card-glow-strong {
+  box-shadow: 0 4px 32px rgba(124, 58, 237, 0.2);
+}
+
+.btn-glow {
+  box-shadow: 0 4px 24px rgba(124, 58, 237, 0.35);
+}
+
+.chat-bubble {
+  position: relative;
+  max-width: 80%;
+  padding: 12px 16px;
+  border-radius: 18px;
+  line-height: 1.6;
+}
+
+.chat-bubble-incoming {
+  background-color: #F0F0F0;
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+.chat-bubble-incoming::before {
+  content: '';
+  position: absolute;
+  left: -6px;
+  bottom: 0;
+  width: 12px;
+  height: 12px;
+  background: #F0F0F0;
+  clip-path: polygon(100% 0, 100% 100%, 0 100%);
+}
+
+.jetup-gradient {
+  background: linear-gradient(135deg, #7C3AED 0%, #9333EA 50%, #A855F7 100%);
+}
+
+.jetup-gradient-glow {
+  background: linear-gradient(135deg, #7C3AED 0%, #9333EA 50%, #A855F7 100%);
+  box-shadow: 0 4px 24px rgba(124, 58, 237, 0.4);
+}
+
+.jetup-gradient-soft {
+  background: linear-gradient(135deg, #A855F7 0%, #C084FC 100%);
+}
+
+.text-gradient-purple {
+  background: linear-gradient(180deg, #7C3AED 0%, #C084FC 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.purple-top-bar {
+  height: 4px;
+  background: linear-gradient(90deg, #7C3AED, #A855F7, #C084FC);
+  border-radius: 0 0 4px 4px;
+}
+

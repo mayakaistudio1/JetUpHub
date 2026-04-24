@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1773367758334,
+      "tag": "0000_stale_lucky_pierre",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1742510000000,
+      "tag": "0001_invite_guests_invitation_method",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1775505600000,
+      "tag": "0002_ama_questions",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1775511407872,
+      "tag": "0003_military_phantom_reporter",
+      "breakpoints": true
+    }
+  ]
+}

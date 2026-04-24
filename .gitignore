@@ -1,0 +1,22 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Replit-managed scratch / local-only data (not source code)
+attached_assets/
+exports/
+screenshots/
+.canvas/
+.cache/
+.config/
+.upm/
+.local/
+.agents/
+
+# Local env / secrets
+.env
+.env.*
+!.env.example

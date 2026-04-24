@@ -1,0 +1,182 @@
+========================================
+JETUP — НЕМЕЦКИЕ ТЕКСТЫ ДЛЯ РЕДАКТУРЫ
+========================================
+
+Вы можете редактировать тексты ниже. Структура показывает, где какой текст используется.
+После редактуры отправьте мне этот файл — я обновлю всё в приложении.
+
+
+════════════════════════════════════════
+ЭКРАН 1: ГЛАВНАЯ СТРАНИЦА (HUB)
+════════════════════════════════════════
+
+--- Шапка ---
+Переключатель языка: RU | EN | DE
+
+--- Логотип и слоган ---
+Слоган: Struktur. Transparenz. Kontrolle.
+Подзаголовок: Dein klarer Einstieg in die Finanzmärkte
+
+--- Карточка Live-консультанта ---
+Заголовок: Live-Beraterin
+Подпись: Tippen Sie, um zu sprechen
+Бейдж: online
+
+--- Кнопки действий (внизу) ---
+Кнопка 1: Registrierung (ссылка: https://jetup.ibportal.io)
+Кнопка 2: PDF herunterladen (файл: jetup-presentation-de.pdf)
+
+--- Футер ---
+@jetup
+
+
+════════════════════════════════════════
+АККОРДЕОН — РАЗДЕЛ 1: Über JetUP
+════════════════════════════════════════
+
+Заголовок: Über JetUP
+Иконка: Info (фиолетовая)
+
+Текст:
+JetUP ist ein modernes Ökosystem, das verifizierte Anbieter, Tools und Dienstleistungen in einer strukturierten und transparenten Umgebung vereint. Die Plattform ersetzt das Markteingangschaos durch einen einzigen Zugangspunkt mit ganzheitlicher Unterstützung.
+
+Struktur: Klare Handlungsalgorithmen für Marktteilnehmer.
+Transparenz: Verständliche Arbeits- und Gewinnverteilungsbedingungen.
+Kontrolle: Instrumentenauswahl und Kapitalmanagement liegen immer beim Kunden.
+
+
+════════════════════════════════════════
+АККОРДЕОН — РАЗДЕЛ 2: 5 Schritte zum Start
+════════════════════════════════════════
+
+Заголовок: 5 Schritte zum Start
+Иконка: Нумерованный список (фиолетовая)
+
+1. Registrierung: Erstellen Sie ein Konto auf dem JetUP IB Portal.
+2. Verbindung: Registrieren Sie sich beim Partner-Broker TAG Markets.
+3. Installation: Laden Sie MetaTrader 5 herunter und installieren Sie es.
+4. Einzahlung: Füllen Sie Ihr Handelskonto beim Broker auf.
+5. Zugang: Erhalten Sie Zugang zu Ökosystem-Tools (Signale, Copy-Trading, Schulung).
+
+
+════════════════════════════════════════
+АККОРДЕОН — РАЗДЕЛ 3: Amplify — Finanzierte Konten
+════════════════════════════════════════
+
+Заголовок: Amplify — Finanzierte Konten
+Иконка: Тренд вверх (зелёная)
+
+Текст:
+Amplify ist die Möglichkeit, Ihr Handelslimit zu erhöhen, bereitgestellt vom Broker bei Einhaltung der Risikomanagement-Regeln.
+
+12x Skalierung: Mit eigenen 1.000 $ erhalten Sie ein Handelskapital von 12.000 $.
+Echte Liquidität: Im Gegensatz zu typischen Prop-Firmen verbindet Amplify Sie mit dem realen Markt.
+Gewinnentnahme: 100% Ihres Gewinns gehören Ihnen, jederzeit auszahlbar.
+Sicherheit: Kein Kredit, kein Bonus. Kapitalverwaltung durch Dritte ist ausgeschlossen.
+
+
+════════════════════════════════════════
+АККОРДЕОН — РАЗДЕЛ 4: TAG Markets — Broker
+════════════════════════════════════════
+
+Заголовок: TAG Markets — Broker
+Иконка: Щит (синяя)
+
+Regulierung: Lizenziert durch FSC Mauritius (Lizenz GB21026474).
+Handelsbedingungen: Maximaler Hebel 1:500.
+Auszahlungsgeschwindigkeit: Durchschnittliche Auszahlung in 24 Stunden.
+Umfang: Über 500.000 Trader weltweit, monatliches Handelsvolumen über 200 Mrd. $.
+Sicherheit: Schutz von Daten und Mitteln nach Bankstandards.
+
+
+════════════════════════════════════════
+АККОРДЕОН — РАЗДЕЛ 5: Ökosystem-Tools
+════════════════════════════════════════
+
+Заголовок: Ökosystem-Tools
+Иконка: Инструменты (розовая)
+
+Copy-X (Copy-Trading): Automatisches Kopieren professioneller Strategien. Der Kunde behält 70% des Gewinns, mit voller Statistik und jederzeitiger Abschaltmöglichkeit.
+Handelssignale: In Echtzeit mit präzisen Einstiegspunkten, Stop Loss/Take Profit und technischer Analyse.
+JetUP Akademie: "Smart Start"-Programm für Trading-Grundlagen, Risikomanagement und Systemdenken.
+Dienste: BIX.FI Debitkarten (Krypto-Fiat-Konvertierung) und Kryptobörse BIT1.COM.
+
+
+════════════════════════════════════════
+АККОРДЕОН — РАЗДЕЛ 6: Partnerprogramm & Belohnungen
+════════════════════════════════════════
+
+Заголовок: Partnerprogramm & Belohnungen
+Иконка: Люди (индиго)
+
+Einkommensquellen:
+  Provisionen: Pro gehandeltem Lot (bis zu 10 Ebenen tief).
+  Profit Share: Anteil an den realen Handelsergebnissen des Teams.
+  Infinity Bonus: Zusätzlicher Prozentsatz (bis +5%) bei Erreichen des Teamvolumens (100k–20M $).
+  Global Pools: Teilnahme an der Gewinnverteilung des gesamten Unternehmens.
+
+Lifestyle-Belohnungen:
+  Rolex-Uhren (ab einem Volumen von 500k $).
+  Immobiliengutscheine im Wert von 1.200.000 $.
+  Exklusive Reisen (Bali, Türkei).
+
+
+════════════════════════════════════════
+ЭКРАН 2: МАРИЯ (ЧАТ)
+════════════════════════════════════════
+
+--- Панель видеозвонка ---
+Заголовок кнопки: Videoanruf mit Maria
+Подпись кнопки: Persönlich in Echtzeit sprechen
+Бейдж: LIVE
+Имя: Maria
+Готовность: Bereit, Ihre Fragen in Echtzeit zu beantworten
+Кнопка старта: Gespräch starten
+Подключение: Verbindung zu Maria...
+Мария говорит: Maria spricht...
+Микрофон включён: Ihr Mikrofon ist an
+Завершить: Anruf beenden
+Ошибка: Verbindungsfehler
+Закрыть: Schließen
+Повторить: Erneut versuchen
+
+--- Текстовый чат ---
+Имя: Maria
+Статус: Online
+Поле ввода: Nachricht schreiben...
+Приветствие: Hallo! Ich bin Maria, die JetUP-Assistentin. Ich erzähle dir alles über das Ökosystem und helfe dir weiter. Was interessiert dich?
+Индикатор: Maria tippt...
+
+Быстрые ответы (начальные):
+  - Was ist JetUP?
+  - Wie fange ich an?
+  - Ist es sicher?
+
+
+════════════════════════════════════════
+НИЖНЯЯ ПАНЕЛЬ (TAB BAR)
+════════════════════════════════════════
+
+Вкладка 1: Hub (иконка: Дом)
+Вкладка 2: Maria (иконка: Сообщение)
+
+
+════════════════════════════════════════
+ПРИМЕЧАНИЯ К СТРУКТУРЕ
+════════════════════════════════════════
+
+Текущий порядок разделов аккордеона:
+  1. Über JetUP
+  2. 5 Schritte zum Start
+  3. Amplify — Finanzierte Konten
+  4. TAG Markets — Broker
+  5. Ökosystem-Tools
+  6. Partnerprogramm & Belohnungen
+
+Вы можете:
+  — Изменить порядок разделов
+  — Объединить разделы (например, Amplify + TAG Markets)
+  — Разделить разделы на подразделы
+  — Изменить заголовки
+  — Переписать любой текст
+  — Добавить или убрать разделы

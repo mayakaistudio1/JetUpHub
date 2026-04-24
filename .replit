@@ -1,0 +1,105 @@
+modules = ["nodejs-20", "web", "postgresql-16"]
+run = "npm run dev"
+hidden = [".config", ".git", "generated-icon.png", "node_modules", "dist"]
+
+[nix]
+channel = "stable-24_05"
+packages = ["unzip"]
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[[ports]]
+localPort = 5001
+externalPort = 3001
+
+[[ports]]
+localPort = 5173
+externalPort = 5173
+
+[[ports]]
+localPort = 5174
+externalPort = 3002
+
+[[ports]]
+localPort = 5904
+externalPort = 3000
+
+[[ports]]
+localPort = 23636
+externalPort = 3003
+
+[[ports]]
+localPort = 23637
+externalPort = 4200
+
+[[ports]]
+localPort = 23638
+externalPort = 5000
+
+[env]
+PORT = "5000"
+
+[deployment]
+deploymentTarget = "vm"
+build = ["npm", "run", "build"]
+run = ["node", "dist/index.cjs"]
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npm run dev"
+waitForPort = 5000
+
+[agent]
+mockupState = "FULLSTACK"
+integrations = ["javascript_openai_ai_integrations:2.0.0", "javascript_object_storage:2.0.0", "google-sheet:1.0.0", "google-drive:1.0.0", "elevenlabs:1.0.0", "github:1.0.0"]
+
+[userenv]
+
+[userenv.shared]
+DENNIS_AVATAR_ID = "66551172-4a5a-4b67-851c-e1225095a438"
+DENNIS_VOICE_ID = "120513e3-901f-43a4-a120-b56ef124e568"
+DENNIS_CONTEXT_ID = "dabeb13d-4e2b-4347-be97-a47084cf4a14"
+TELEGRAM_NOTIFY_CHAT_ID = "-5142513382"
+LIVEAVATAR_CONTEXT_ID_TEST = "81c33efe-9941-4310-80da-f4660d1b2abb"
+ZOOM_HOST_EMAIL = "jetup.aistudio@gmail.com"
+SOFIA_AVATAR_ID = "2f579f23-0c4b-4fd5-b92f-72637b53840b"
+SOFIA_VOICE_ID_DE = "efc81bd6-4c19-4eeb-8528-00428454271e"
+SOFIA_CONTEXT_ID_DE = "67f77894-7928-40b1-9362-9b667dba6d98"
+SOFIA_SANDBOX_MODE = "false"
+SOFIA_OPENAI_SECRET_ID = "9ca6c681-f59a-4faf-be06-4baceaf48309"
+SOFIA_PROXY_TOKEN = "sofia-proxy-9f4029b87fe275c5e1b394d8"
+ELEVENLABS_AGENT_ID = "agent_5601kpybmejhewrtmyxcmg4e83xz"
+ELEVENLABS_VOICE_ID = "ckc55WuPUQr9tOD8hXGm"
+
+[userenv.development]
+TELEGRAM_PARTNER_BOT_TOKEN_DEV = "8725562582:AAEJR-3SiEHTSaD-cYt7P0AfrJS1yzhHHM0"
+TELEGRAM_PARTNER_BOT_USERNAME = "Jetup_partner_test_bot"
+
+[userenv.production]
+TELEGRAM_PARTNER_BOT_USERNAME = "JetUP_Partner_Bot"
+PARTNER_APP_ENABLED = "true"
+
+[postMerge]
+path = "scripts/post-merge.sh"
+timeoutMs = 120000
+
+[objectStorage]
+defaultBucketID = "replit-objstore-21866df0-ac5f-4de0-8030-d41174555ae5"

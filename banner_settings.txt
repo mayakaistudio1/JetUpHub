@@ -1,0 +1,25 @@
+Banner Export Settings (AdminPage.tsx):
+
+Dimensions: 1200px x 660px (Export Scale: 2x)
+Background: linear-gradient(-29deg, rgb(182, 139, 255) 0%, rgb(255, 255, 255) 69%)
+Fonts: Montserrat (Titles/Date), Inter (Speaker Name)
+
+Left Column (62% width):
+- Padding: 28px 32px
+- Layout: flex-direction: column, justify-content: space-between
+- Logo: height: 40px, width: auto, object-fit: contain
+- Title Area:
+  - "Zoom Call": 32px, bold, color: #1a1a1a
+  - Event Title: 36px-48px (dynamic), extra-bold, color: #7C3AED
+- Date/Time Area:
+  - Date: 30px, bold, color: #1a1a1a
+  - Icon: height: 26px
+  - Time: 24px, medium, color: #9ca3af
+- Slogan (Bottom):
+  - Words: 18px, bold, color: #111827, spacing: 3px
+  - Dots: 8px x 8px, color: #a855f7
+
+Right Column:
+- Layout: centered speaker photo + name
+- Speaker Photo: 260px x 260px, rounded, 3px border
+- Speaker Name: 16px-20px (dynamic), semibold, white background box
